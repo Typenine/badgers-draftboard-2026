@@ -128,17 +128,17 @@ const TIER_INFO = {
   7: { label: 'Tier 7 — TE / QB / Roster Bloat', color: '#3a3220' },
 };
 
-const BadgersLogo = ({ size = 38 }) => (
-  <div style={{
-    width: size, height: size, borderRadius: '50%',
-    background: `radial-gradient(circle at 30% 30%, ${C.accent}55, ${C.primary} 60%, #00432e)`,
-    border: `2px solid ${C.text}`,
-    display: 'flex', alignItems: 'center', justifyContent: 'center',
-    fontSize: size * 0.42, fontWeight: 900, color: C.text,
-    fontFamily: 'Georgia, serif', letterSpacing: '-1px',
-    boxShadow: `0 0 14px ${C.primary}88, inset 0 0 8px rgba(0,0,0,0.3)`,
-    flexShrink: 0,
-  }}>BB</div>
+const BadgersLogo = ({ size = 38, secondary = false }) => (
+  <img
+    src={secondary ? '/badgers-secondary-logo.png' : '/badgers-primary-logo.png'}
+    alt="Belleview Badgers"
+    style={{
+      width: size, height: size,
+      objectFit: 'contain',
+      flexShrink: 0,
+      filter: `drop-shadow(0 0 8px ${C.primary}66)`,
+    }}
+  />
 );
 
 // ===== Get the most relevant accent color for a player based on flags =====
@@ -288,7 +288,7 @@ function ScoutingSection({ playerId, scoutingUrl, scoutingCache, scoutingStatus,
       return (
         <ul style={{ margin: 0, paddingLeft: '18px' }}>
           {val.map((item, idx) => (
-            <li key={idx} style={{ marginBottom: '4px' }}>{String(item)}</li>
+            <li key={idx} style={{ marginBottom: '6px' }}>{renderParagraphs(String(item))}</li>
           ))}
         </ul>
       );
@@ -308,7 +308,18 @@ function ScoutingSection({ playerId, scoutingUrl, scoutingCache, scoutingStatus,
       );
     }
 
-    return String(val);
+    return renderParagraphs(String(val));
+  };
+
+  const renderParagraphs = (text) => {
+    const paragraphs = text.split(/\n\n+/).filter(Boolean);
+    if (paragraphs.length <= 1) return text;
+    return paragraphs.map((p, i) => (
+      <React.Fragment key={i}>
+        {i > 0 && <div style={{ height: '8px' }} />}
+        <span>{p}</span>
+      </React.Fragment>
+    ));
   };
 
   if (!scoutingUrl) {
@@ -1025,7 +1036,9 @@ export default function BadgersDraftBoard() {
         <div style={{
           textAlign: 'center', padding: '16px',
           fontSize: '10px', color: C.textDim, letterSpacing: '2px',
-        }}>BELLEVIEW BADGERS · DYNASTY · EVW · {players.length} PLAYERS</div>
+        }}>
+          <BadgersLogo size={18} secondary /> BELLEVIEW BADGERS · DYNASTY · EVW · {players.length} PLAYERS
+        </div>
       </div>
     </div>
   );
