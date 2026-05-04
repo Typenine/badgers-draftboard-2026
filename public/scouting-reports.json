@@ -1,148 +1,935 @@
 {
   "love": {
-    "shortReport": "Elite three-down RB with home-run burst and receiving upside. Notre Dame's bellcow — 17 TDs in 2024 prove nose for the end zone.",
-    "athleticProfile": "Explosive first step, loose hips, max-speed corner-press winner. Long speed translates on tape — pulls away from DBs at the second level.",
+    "shortReport": "Elite three-down RB with home-run burst and receiving upside. Notre Dame's bellcow — 17 TDs in 2024, 14 in 2025 prove nose for the end zone. Receiving volume trending up every year (8→28→27 catches). Also contributed 3 return TDs.",
+    "athleticProfile": "Explosive first step, loose hips, max-speed corner-press winner. Long speed translates on tape — pulls away from DBs at the second level. 4.38 estimated, contact balance through the hole is elite.",
     "strengths": [
       "Explosive burst through the hole — reaches top speed in two strides",
-      "Receiving upside: natural hands, routes improved every year",
-      "Goal-line and short-yardage finishing — 17 TDs in 2024 behind an average OL",
-      "Contact balance — bounces off arm tackles, keeps legs churning"
+      "Receiving upside: natural hands, routes improved every year (8→28→27 rec, added 2 receiving TDs in 2025)",
+      "Goal-line and short-yardage finishing — 48 total TDs over 3 seasons behind varying OL quality",
+      "Contact balance — bounces off arm tackles, keeps legs churning through contact",
+      "Return value: 2 KR TDs in 2024, 1 PR TD in 2025 adds hidden fantasy floor"
     ],
     "weaknesses": [
       "Pass-pro technique still raw — leans into rushers instead of mirroring",
-      "Can be too patient on zone reads — needs to commit faster",
-      "Minor 2023 workload concerns (Achilles scare, though fully returned)"
+      "Can be too patient on zone reads — needs to commit faster to the hole",
+      "YPC declined each year (7.9→6.9→6.6) — could signal OL dependency or workload wear",
+      "Never had 200+ carries in a season — durability over a full NFL workload unproven"
     ],
     "nflFit": "Three-down feature back in a zone-run scheme. Best fit: team with outside-zone DNA and a need for pass-game upside at RB.",
     "comp": "Alvin Kamara lite — same receiving profile, slightly less elusiveness in space",
-    "dynastyOutlook": "Top-3 dynasty RB in this class. Locked-in three-down role day one if landing spot is reasonable.",
+    "dynastyOutlook": "Top-3 dynasty RB in this class. Locked-in three-down role day one if landing spot is reasonable. Receiving growth gives him weekly RB1 ceiling in PPR.",
+    "badgersFit": "Perfect Badgers fit. You need a franchise RB and Love is the best in this class. Three-down profile means he never leaves the field. The receiving upside (27 catches in 2025) is gravy in PPR. At pick 1.03 you're getting a potential dynasty RB1. Don't overthink it.",
     "verdict": "Elite RB1 profile. Draft and never look back."
   },
   "mendoza": {
-    "shortReport": "Gunslinger QB who exploded at Indiana in 2025. Elite arm talent with plus mobility — turnover spike is the only real wart.",
-    "athleticProfile": "Above-average athlete for the position. Escapes the pocket with purpose, not just scrambling — keeps eyes downfield.",
+    "shortReport": "Gunslinger QB who exploded at Indiana in 2025 — 35 TD, 6 INT, 70.7% with 312 rush yds and 6 rushing TDs. Elite arm talent with plus mobility. The 2025 season was a legit breakout; Cal tape was merely decent.",
+    "athleticProfile": "Above-average athlete for the position. Escapes the pocket with purpose, not just scrambling — keeps eyes downfield. Rushing production climbed every year (112→198→312 yds) showing growing comfort as a runner. Not a designed-run QB but a functional scrambler who adds 5-6 rush TDs.",
     "strengths": [
-      "Elite arm strength — drives the ball 55+ yards with touch",
-      "Improved decision-making at Indiana: 35 TDs vs 6 INT in 2025",
+      "Elite arm strength — drives the ball 55+ yards with touch and layered accuracy",
+      "Dramatically improved decision-making at Indiana: 35 TDs vs 6 INT in 2025 (was 17-6 and 16-6 at Cal)",
       "Off-schedule playmaker — extends plays and throws accurately on the move",
-      "Quick release — gets the ball out in 2.3s average"
+      "Quick release — gets the ball out in 2.3s average, bails out OL issues",
+      "Rushing upside: 6 rushing TDs in 2025 gives him a weekly QB1 floor even in bad passing matchups",
+      "3 game-winning drives in 2025 — clutch gene is real"
     ],
     "weaknesses": [
-      "Still prone to hero-ball turnovers under pressure",
-      "Mechanics break down when pocket collapses — arm-only thrower",
-      "Only one elite season — Cal tape was inconsistent"
+      "Still prone to hero-ball turnovers under pressure — will force one he shouldn't per game",
+      "Mechanics break down when pocket collapses — arm-only thrower off back foot",
+      "Only one elite season — Cal tape was inconsistent, 2025 could be peak not floor",
+      "Completion percentage jump (63.8%→70.7%) is suspicious — may regress with better defenders"
     ],
-    "nflFit": "Best in a spread/RPO system that maximizes arm talent and movement. Not a pure pocket guy — needs bootleg/play-action elements.",
-    "comp": "Jordan Love trajectory — raw early, elite arm, needs reps",
-    "dynastyOutlook": "QB2 in this class for dynasty. Ceiling is a top-5 fantasy QB if he lands a starting job.",
-    "verdict": "High-end QB2 with QB1 upside. Worth the risk in the late 1st."
+    "nflFit": "Best in a spread/RPO system that maximizes arm talent and movement. Not a pure pocket guy — needs bootleg/play-action elements. Rushing TDs make him a fantasy QB1 even in down passing weeks.",
+    "comp": "Jordan Love trajectory — raw early, elite arm, needs reps. Rushing adds a Jalen Hurts-lite floor.",
+    "dynastyOutlook": "QB1 in this class for dynasty. Ceiling is a top-3 fantasy QB with the rushing floor. The 35-6 TD-INT ratio is elite regardless of competition.",
+    "badgersFit": "If you need a franchise QB, Mendoza is the pick. The rushing TDs (6 in 2025) give him a weekly floor that most pocket QBs can't match. In a dynasty league, a dual-threat QB with this arm talent is gold. He's your 1.01 if you're QB-needy. If you already have a QB, he's still worth a 1st-round pick as a trade asset.",
+    "verdict": "High-end QB1 with elite ceiling. The rushing floor seals it."
   },
   "tate": {
-    "shortReport": "Ohio State WR who broke out in 2025 with 12 TDs. Prototypical X-receiver build with contested-catch dominance.",
+    "shortReport": "Ohio State X-receiver who broke out in 2025 with 12 TDs on 52 catches (22.2 YPR). Prototypical build with contested-catch dominance. Route tree expanded significantly under Hartline. Slow 2023 start (18 catches) is the only real concern.",
+    "athleticProfile": "Big, physical X-receiver with strong hands and leaping timing. Not a burner — wins with size, body positioning, and catch radius. 22.2 YPR in 2025 shows he wins downfield with positioning, not pure speed.",
     "strengths": [
-      "Contested-catch monster — wins 50/50 balls with strong hands and timing",
-      "Red-zone weapon — 12 TDs on 52 catches in 2025",
-      "Route tree expanded significantly under Hartline",
-      "Strong after the catch — breaks tackles with size and lean"
+      "Contested-catch monster — wins 50/50 balls with strong hands and timing at the high point",
+      "Red-zone weapon — 12 TDs on 52 catches in 2025 (23.1% TD rate is absurd)",
+      "Route tree expanded significantly under Hartline — runs the full tree now",
+      "Strong after the catch — breaks tackles with size and lean, 22.2 YPR isn't all deep balls",
+      "Production improved every year: 18→52→52 catches, 1→4→12 TDs"
     ],
     "weaknesses": [
-      "Separation questions against elite press-man corners",
+      "Separation questions against elite press-man corners — can be erased by physical CBs",
       "Doesn't have elite top-end speed — wins with size, not burst",
-      "Slow start to career (18 catches in 2023) — late bloomer"
+      "Slow start to career (18 catches in 2023) — late bloomer, one-year TD spike risk",
+      "TD rate (23.1%) is unsustainable — expect regression to 7-8 TD range"
     ],
-    "nflFit": "X-receiver in a vertical passing game. Best with a QB who can throw him open on 50/50 balls.",
-    "comp": "Mike Evans-lite — similar size/catch radius, slightly less speed",
-    "dynastyOutlook": "Solid WR2/3 in dynasty. TD dependency is a risk but the ceiling is a weekly WR1.",
-    "verdict": "Top-5 dynasty WR in this class. Plug and play."
+    "nflFit": "X-receiver in a vertical passing game. Best with a QB who can throw him open on 50/50 balls. TD dependency makes him boom/bust in fantasy.",
+    "comp": "Mike Evans-lite — similar size/catch radius, slightly less speed and consistency",
+    "dynastyOutlook": "Solid WR2/3 in dynasty. TD dependency is a risk but the ceiling is a weekly WR1. The 12-TD season is his peak, not his floor.",
+    "badgersFit": "Tate is a premium talent at a premium position. The 12 TDs are flashy but expect 7-9 in a typical year. He's a WR2 with WR1 ceiling in PPR. At pick 1.04 he's a solid get if you went RB/QB earlier. The contested-catch skill means he's QB-proof — he'll produce even with a mediocre passer.",
+    "verdict": "Top-5 dynasty WR in this class. Plug and play with TD upside."
   },
   "tyson": {
-    "shortReport": "Explosive ASU WR who overcame a 2023 knee injury. Deep-speed threat with elite after-the-catch ability.",
+    "shortReport": "Explosive ASU WR who overcame a 2023 knee injury. Deep-speed threat with elite after-the-catch ability. Back-to-back 1,000+ yd seasons (75-1101-10 in 2024, 71-1005-8 in 2025). Versatile alignment — plays outside and slot. Also contributed on punt returns.",
+    "athleticProfile": "Twitchy athlete with elite deep speed and loose hips in breaks. The knee injury didn't rob his explosiveness — he's still a vertical threat who pulls away from DBs. YAC ability is his calling card.",
     "strengths": [
-      "Elite deep speed — stretches the field vertically",
-      "After-the-catch dynamo — makes defenders miss in space",
-      "High-end production post-injury: 75-1101-10 in 2024",
-      "Versatile alignment — plays outside and in the slot"
+      "Elite deep speed — stretches the field vertically, commands safety attention",
+      "After-the-catch dynamo — makes defenders miss in space, 14.7 YPR shows catch-and-run ability",
+      "High-end production post-injury: 75-1101-10 in 2024, 71-1005-8 in 2025 — no regression",
+      "Versatile alignment — plays outside and in the slot, creates mismatches",
+      "Return ability: 2 PR for 50+ yds in 2024, adds special-teams floor"
     ],
     "weaknesses": [
-      "Knee injury history in 2023 — medical flag for some teams",
-      "Can round off routes at the top of the stem",
-      "Concentration drops on crossers — takes eye off ball early"
+      "Knee injury history in 2023 — medical flag for some teams, could limit draft capital",
+      "Can round off routes at the top of the stem — loses separation against patient corners",
+      "Concentration drops on crossers — takes eye off ball early to set up YAC",
+      "Yards per catch declined (14.7→14.2) — could indicate declining separation or defensive adjustment"
     ],
-    "nflFit": "Z-receiver or slot in a spread system. Best with a QB who throws a great deep ball.",
-    "comp": "DJ Moore — same YAC ability and alignment flexibility",
-    "dynastyOutlook": "WR3/4 with weekly WR2 upside if he stays healthy.",
+    "nflFit": "Z-receiver or slot in a spread system. Best with a QB who throws a great deep ball. The YAC ability makes him scheme-proof — he'll produce in any offense that gets him the ball in space.",
+    "comp": "DJ Moore — same YAC ability and alignment flexibility, slightly less physical",
+    "dynastyOutlook": "WR2/3 with weekly WR1 upside if he stays healthy. The knee is the only thing keeping him from the top tier.",
+    "badgersFit": "Tyson is a high-ceiling WR who fits what the Badgers need — explosive playmaking. The knee injury is the risk, but two 1,000-yd seasons post-injury are reassuring. He's a WR2 with WR1 upside at pick 1.08. If you already grabbed Love or Mendoza, Tyson is the perfect WR1 to pair with them.",
     "verdict": "High ceiling, moderate risk. Worth the pick if you can absorb the injury floor."
   },
   "lemon": {
-    "shortReport": "USC Biletnikoff winner. Elite route runner with suddenness out of breaks. The safest WR in this class.",
+    "shortReport": "USC Biletnikoff winner. Elite route runner with suddenness out of breaks — 79-1156-11 TDs in 2025. The safest WR in this class. Production climbed every year (23→52→79 catches). Not a burner but wins with technique and hands.",
+    "athleticProfile": "Twitchy, sudden athlete who wins with quickness not speed. Loose hips in breaks, no wasted movement. Smaller frame but plays bigger through technique. Not going to run by anyone but will create separation on every route.",
     "strengths": [
-      "Elite route runner — creates separation consistently",
-      "Biletnikoff winner in 2025: 79-1156-11 TDs",
-      "Sudden out of breaks — no wasted movement at the stem top",
-      "Reliable hands — drops are rare"
+      "Elite route runner — creates separation consistently against all coverage types",
+      "Biletnikoff winner in 2025: 79-1156-11 TDs — production is undeniable",
+      "Sudden out of breaks — no wasted movement at the stem top, QB-friendly target",
+      "Reliable hands — drops are rare, catches everything in his frame",
+      "Production trajectory: 23→52→79 catches, 0→6→11 TDs — every year better than the last"
     ],
     "weaknesses": [
-      "Not a burner — wins with technique, not speed",
-      "Smaller frame — can be knocked off routes by press coverage",
-      "USC system inflated some numbers — lots of schemed touches"
+      "Not a burner — wins with technique, not speed. Won't take the top off NFL defenses",
+      "Smaller frame — can be knocked off routes by press coverage from bigger CBs",
+      "USC system inflated some numbers — lots of schemed touches, screens, and RPOs",
+      "YPR declined (13.7→14.7→14.6) — capped ceiling without deep-ball ability"
     ],
-    "nflFit": "Slot or Z in a timing-based offense. Best with a precise QB who throws on time.",
-    "comp": "Ceedee Lamb — similar route nuance and body control",
-    "dynastyOutlook": "Top-3 dynasty WR. Safe floor with weekly WR2/3 production.",
-    "verdict": "The safest WR pick in this class. Take him and enjoy."
+    "nflFit": "Slot or Z in a timing-based offense. Best with a precise QB who throws on time. Scheme-proof — his route running translates to any system.",
+    "comp": "Ceedee Lamb — similar route nuance and body control, minus the elite athleticism",
+    "dynastyOutlook": "Top-3 dynasty WR. Safe floor with weekly WR2 production. The Biletnikoff is a strong signal — recent winners have been hits at the next level.",
+    "badgersFit": "Lemon is the safest WR pick you can make. The route running means he'll produce regardless of QB or scheme. At pick 1.20 he's a steal — he should go higher. He's your WR1 if you went RB/QB early, or a filthy WR2 if you took Tate/Tyson first. The floor is high; the ceiling is capped without deep speed.",
+    "verdict": "The safest WR pick in this class. Take him and enjoy the floor."
   },
   "price": {
-    "shortReport": "Notre Dame RB returning from a 2023 Achilles tear. Explosive when healthy — 11 TDs in 2025 prove the burst is back.",
+    "shortReport": "Notre Dame RB returning from a 2023 Achilles tear. Explosive when healthy — 11 TDs in 2025 on just 113 carries (6.0 YPC). Receiving upside emerging: 22-187-2TD in 2025. The burst is back but durability and workload are real questions.",
+    "athleticProfile": "Explosive burst is his defining trait — hits the hole with urgency and reaches top speed quickly. Achilles recovery was clean; no visible limitations on tape. Smaller frame raises durability concerns over a full NFL season.",
     "strengths": [
-      "Explosive burst — hits the hole with urgency",
-      "Goal-line finisher — 11 TDs in 2025 on limited carries",
-      "Pass-game upside — natural hands out of the backfield",
-      "Achilles recovery was clean — no visible limitations on tape"
+      "Explosive burst — hits the hole with urgency, 6.0 YPC in 2025 shows the big-play ability",
+      "Goal-line finisher — 11 TDs in 2025 on limited carries, nose for the end zone",
+      "Pass-game upside — 22-187-2TD receiving in 2025, natural hands out of the backfield",
+      "Achilles recovery was clean — no visible limitations on tape, cut ability is intact"
     ],
     "weaknesses": [
-      "Achilles injury in 2023 — long-term durability concern",
-      "Limited workload — never had 120+ carries in a season",
-      "Pass protection still developing"
+      "Achilles injury in 2023 — long-term durability concern, re-injury risk is elevated",
+      "Limited workload — never had 120+ carries in a season, can he handle 200+?",
+      "Pass protection still developing — liabilities in blitz pickup will limit third-down snaps",
+      "YPC dropped from 6.9 to 6.0 — could be regression or OL variance"
     ],
-    "nflFit": "Change-of-pace / committee back with RB2 upside. Best in a zone scheme that maximizes his burst.",
-    "comp": "James Cook — same burst/receiving profile",
-    "dynastyOutlook": "RB3/4 with weekly RB2 upside if he earns a role. Injury floor is real.",
-    "verdict": "High-upside RB2 if the medicals check out. Worth the dart."
+    "nflFit": "Change-of-pace / committee back with RB2 upside. Best in a zone scheme that maximizes his burst. Receiving ability keeps him on the field on third downs.",
+    "comp": "James Cook — same burst/receiving profile, slightly less elusiveness",
+    "dynastyOutlook": "RB3/4 with weekly RB2 upside if he earns a role. Injury floor is real but the TD production is enticing.",
+    "badgersFit": "Price is a high-upside RB2 if the medicals check out. The 11 TDs on 113 carries is elite efficiency, but he's never proven he can handle a full workload. At pick 2.32 he's worth the dart — if you already have Love, Price is a premium handcuff with standalone value. The receiving upside (22 catches in 2025) gives him PPR flex appeal.",
+    "verdict": "High-upside RB2 if the medicals check out. Worth the dart throw."
   },
   "concepcion": {
-    "shortReport": "Shifty slot WR who transferred to Texas A&M. Elite after the catch with sudden route running.",
+    "shortReport": "Shifty slot WR who transferred from NC State to Texas A&M. Elite after the catch with sudden route running. 2023 was elite (71-839-10TD), 2025 was solid (55-661-8TD). Also contributes on punt returns (1 TD in 2023). Small frame limits his ceiling.",
+    "athleticProfile": "Twitchy slot athlete with elite short-area quickness. Makes the first man miss consistently. Small frame limits his effectiveness against press and over the middle. Not a deep threat — wins underneath and in space.",
     "strengths": [
-      "Elite YAC ability — makes the first man miss consistently",
-      "Sudden route runner — creates instant separation",
-      "Versatile — returns punts and plays gadget roles",
-      "Productive at NC State: 71-839-10 in 2023"
+      "Elite YAC ability — makes the first man miss consistently, dangerous in space",
+      "Sudden route runner — creates instant separation on slants, screens, and option routes",
+      "Versatile — returns punts (1 TD in 2023) and plays gadget roles, adds hidden floor",
+      "Productive at NC State: 71-839-10 in 2023, proved it again at TAMU: 55-661-8"
     ],
     "weaknesses": [
-      "Small frame — struggles against press-man",
-      "Dropped off at TAMU — 55-661-8 is fine but not dominant",
-      "Not a deep threat — wins underneath"
+      "Small frame — struggles against press-man, can be erased by physical CBs",
+      "Dropped off at TAMU — 55-661-8 is fine but not the 71-839-10 he had at NCST",
+      "Not a deep threat — wins underneath, capped fantasy ceiling without big plays",
+      "Gadget/slot only — can't win on the boundary, limits snap count"
     ],
-    "nflFit": "Slot receiver in a spread offense. Best with a QB who gets the ball out quickly.",
-    "comp": "Tank Dell — same size/suddenness profile",
-    "dynastyOutlook": "WR4/5 with weekly WR3 upside in the right matchup.",
+    "nflFit": "Slot receiver in a spread offense. Best with a QB who gets the ball out quickly. Return ability gives him a roster floor even if the offense doesn't feature him.",
+    "comp": "Tank Dell — same size/suddenness profile, slightly less deep speed",
+    "dynastyOutlook": "WR4/5 with weekly WR3 upside in the right matchup. The return value adds a floor in return-yard leagues.",
+    "badgersFit": "Concepcion is a useful dynasty piece but not a building block. He's a slot-only gadget player who gives you WR3 weeks when the matchup is right. At pick 2.24 he's decent value if you already have your WR1/2. The punt return TD is a bonus in return-yard leagues. Draft for depth, not as a starter.",
     "verdict": "Useful dynasty piece but not a building block. Draft for depth."
   },
   "sadiq": {
-    "shortReport": "Oregon TE with elite athleticism and ascending production. 5 TDs in 2025 shows red-zone upside.",
+    "shortReport": "Oregon TE with elite athleticism and ascending production — 2→24→36 catches, 0→2→5 TDs. 6'6\" 241 lbs former basketball player with a 34.1\" vert. Raw blocker but the athletic profile is rare for the position. Red-zone mismatch waiting to happen.",
+    "athleticProfile": "6'6\" 241 lbs with a basketball background and a 34.1\" vertical. Fluid mover for his size — can sink and break like a smaller athlete. Long-strider who covers ground quickly. Raw as a blocker but the movement skills are undeniable.",
     "strengths": [
-      "Elite athletic profile — former basketball player with fluid movement",
-      "Red-zone threat — 5 TDs in 2025 on 36 catches",
-      "Improving route runner — getting cleaner out of breaks every year",
-      "YAC ability — stiff-arms and hurdles defenders in space"
+      "Elite athletic profile — former basketball player with fluid movement at 6'6\" 241",
+      "Red-zone threat — 5 TDs in 2025 on 36 catches, uses his size and vert to win above the rim",
+      "Improving route runner — getting cleaner out of breaks every year, trajectory is steep",
+      "YAC ability — stiff-arms and hurdles defenders in space, not just a big target",
+      "Ascending production: 2→24→36 catches, 0→2→5 TDs — arrow pointing way up"
     ],
     "weaknesses": [
-      "Still raw as a blocker — needs significant technique work",
-      "Only one productive season — 2023 was 2 catches",
-      "Can drift on routes when the play breaks down"
+      "Still raw as a blocker — needs significant technique work, will limit inline snaps",
+      "Only one semi-productive season — 2023 was 2 catches, still developing",
+      "Can drift on routes when the play breaks down — needs more reps",
+      "36 catches isn't dominant — volume ceiling depends on NFL role"
     ],
-    "nflFit": "Move TE in a spread offense. Best as an F-back who creates mismatches in the slot.",
-    "comp": "Evan Engram — same athletic/positional profile",
-    "dynastyOutlook": "TE2 with weekly TE1 upside. The athleticism is rare for the position.",
+    "nflFit": "Move TE in a spread offense. Best as an F-back who creates mismatches in the slot. Won't be an every-down inline TE — his value is as a jumbo slot.",
+    "comp": "Evan Engram — same athletic/positional profile, slightly less polished as a route runner",
+    "dynastyOutlook": "TE1 with weekly TE1 upside. The athleticism is rare for the position. In a weak TE class, he's the prize.",
+    "badgersFit": "Sadiq is the TE to own in this class. The 6'6\" frame with basketball athleticism is a red-zone cheat code. At pick 2.16 he's a bargain for a potential TE1. If you're tired of streaming TEs, Sadiq is your exit ticket. The ascending production (2→24→36 catches) means he's just getting started.",
     "verdict": "Top dynasty TE in this class. Take him if you need a TE."
+  },
+  "simpson": {
+    "shortReport": "Alabama QB who finally got his chance in 2025 — 2,824 yds, 28 TD, 4 INT, 71.4% with 287 rush yds and 5 rushing TDs. Elite accuracy with functional mobility. Sat behind Milroe for 2 years but the 2025 tape is legit first-round quality.",
+    "athleticProfile": "Functional athlete — not a designed-runner but effective scrambler (62-287-5TD in 2025). Clean mechanics, quick release. Above-average mobility for a pocket passer. The 5 rushing TDs show he can extend plays and score with his legs.",
+    "strengths": [
+      "Elite accuracy — 71.4% completion rate in 2025, puts the ball in stride consistently",
+      "Outstanding TD-INT ratio — 28-4 in his first starting season is remarkable",
+      "Functional mobility — 287 rush yds and 5 TDs give him a fantasy floor beyond passing",
+      "Quick release and clean mechanics — processes the field fast, gets the ball out",
+      "Alabama pedigree — developed under Saban/DeBoer, NFL-ready preparation"
+    ],
+    "weaknesses": [
+      "Only one year of starting tape — 2023-24 were backup duty (29 attempts total)",
+      "Alabama talent inflation — surrounded by NFL-caliber weapons, can he elevate lesser rosters?",
+      "Arm strength is good not elite — struggles to drive the ball on deep outs",
+      "28 TDs may be peak — expect regression with fewer weapons at the next level"
+    ],
+    "nflFit": "Best in a West Coast / play-action system that emphasizes accuracy and timing. The rushing TDs make him a fantasy asset even if the passing volume is moderate.",
+    "comp": "Brock Purdy with legs — accurate, efficient, functional mobility, not a tools freak",
+    "dynastyOutlook": "QB2/3 in this class. The 28-4 ratio is elite but one-year wonders are risky. The rushing TDs (5) give him a weekly QB1 floor in fantasy.",
+    "badgersFit": "Simpson is the QB2 in this class behind Mendoza. The 71.4% accuracy and 28-4 TD-INT ratio are elite, but it's one year of tape at Alabama with NFL weapons. The 5 rushing TDs are the fantasy hook — he's a QB1 with his legs even in bad passing weeks. At pick 2.13 he's worth it if you missed on Mendoza. Pair him with a RB/WR and you're set.",
+    "verdict": "High-floor QB2 with QB1 upside via rushing TDs. One-year risk is real."
+  },
+  "cooper": {
+    "shortReport": "Indiana WR with ascending production — 12→45→74 catches, 2→7→9 TDs. Big-play ability (18.3 YPR in 2023, 16.2 in 2024). Reliable target who grew into a go-to role. Big Ten WR of the Week x3 in 2025.",
+    "athleticProfile": "Smooth athlete with good size and long speed. Wins downfield with tracking and body positioning. Not sudden in breaks but builds speed efficiently. Good after the catch with size to break arm tackles.",
+    "strengths": [
+      "Ascending production: 12→45→74 catches, every year significantly better",
+      "Big-play ability — 18.3 YPR in 2023, 16.2 in 2024, averaged 12.6 in 2025 with volume",
+      "Reliable target — grew into a go-to role, earned Big Ten WR of the Week x3 in 2025",
+      "Red-zone threat — 9 TDs in 2025 on 74 catches, wins with size and positioning"
+    ],
+    "weaknesses": [
+      "Not sudden in breaks — separation against quick-twitch corners is a concern",
+      "Big Ten production came in a spread offense — some system inflation",
+      "YPR dropped with volume (18.3→16.2→12.6) — efficiency vs volume tradeoff",
+      "One elite year — 2023-24 were modest, could be a late bloomer or one-year wonder"
+    ],
+    "nflFit": "Z-receiver in a spread offense. Best with a QB who throws with anticipation. The ascending production suggests he's still improving.",
+    "comp": "Michael Pittman — similar size/production trajectory, reliable but not explosive",
+    "dynastyOutlook": "WR3/4 with weekly WR2 upside. The ascending production is encouraging but one elite year is a risk.",
+    "badgersFit": "Cooper is a solid WR3 with WR2 upside if he continues his trajectory. At pick 2.30 he's great value — the ascending production (12→45→74 catches) is a strong signal. He's a reliable target who won't tank your week. Pair him with a WR1 like Tate or Tyson and you're set at receiver.",
+    "verdict": "Ascending WR with solid floor. Worth the pick in the late 2nd."
+  },
+  "lane": {
+    "shortReport": "USC red-zone specialist with a 6'4\" frame — 12 TDs on 46 catches in 2024, 6 TDs on 47 catches in 2025. Massive catch radius makes him a goal-line cheat code. Production is TD-dependent; volume is modest.",
+    "strengths": [
+      "6'4\" frame with massive catch radius — red-zone cheat code",
+      "12 TDs on 46 catches in 2024 (26.1% TD rate) is absurd efficiency",
+      "Improved YPR from 11.4 to 17.2 in 2025 — adding downfield ability",
+      "Wins 50/50 balls consistently — QB can just throw it up"
+    ],
+    "weaknesses": [
+      "TD-dependent — when he doesn't score, the floor is low",
+      "Modest volume — never had 50 catches in a season",
+      "Limited route tree — mostly go-balls, fades, and slants",
+      "TD rate will regress — 12 TDs on 46 catches is unsustainable"
+    ],
+    "nflFit": "Red-zone specialist X-receiver. Best in an offense that needs a jump-ball target near the goal line.",
+    "comp": "Mike Williams (Chargers version) — big, TD-dependent, limited route tree",
+    "dynastyOutlook": "WR4/5 with weekly WR2 upside in TD-only formats. In PPR, the low volume caps his floor.",
+    "badgersFit": "Lane is a TD-or-bust WR with a massive frame. In PPR he's frustrating — 47 catches won't win you weeks. But in TD-heavy scoring, he's a secret weapon. At pick 3.80 he's a fine dart throw if you already have your WR1/2. Don't reach for the TD rate — it's coming down.",
+    "verdict": "TD-dependent red-zone specialist. Low PPR floor, high TD ceiling."
+  },
+  "singleton": {
+    "shortReport": "Penn State RB with four years of split-backfield production — 1,061→752→1,099→729 rush yds, 41→362→24→158 rec yds. The receiving peak (41-362 in 2023) shows PPR upside. TD machine: 12+ rush TDs in three of four seasons.",
+    "strengths": [
+      "TD machine — 12+ rushing TDs in three of four seasons (45 total)",
+      "Receiving upside shown in 2023: 41-362-1TD — can be a three-down back if given the chance",
+      "Four years of Power 5 production — experienced, reliable",
+      "Big-play ability — 6.8 YPC as a true freshman shows burst"
+    ],
+    "weaknesses": [
+      "Split backfield entire career — never the solo guy, can he carry a full NFL load?",
+      "Receiving production collapsed in 2024-25 (24-158, 11-72) — trending wrong",
+      "YPC declined every year: 6.8→5.2→6.5→4.5 — concerning trajectory",
+      "Lots of mileage: 634 career carries plus receiving work"
+    ],
+    "nflFit": "Committee back with RB2 upside if he wins a lead role. The 2023 receiving tape shows three-down potential, but recent years suggest he's a two-down runner.",
+    "comp": "Jamaal Williams — reliable TD scorer, limited receiving, best in a committee",
+    "dynastyOutlook": "RB3/4 with weekly RB2 upside if he lands in a TD-friendly offense. The receiving decline is worrying for PPR.",
+    "badgersFit": "Singleton is a TD-dependent RB in a split backfield. The 45 career TDs are enticing, but the declining YPC and collapsing receiving production are red flags. At pick 5.165 he's a fine dart — he'll score TDs but won't give you much else. Best as an RB3/flex play. The 2023 receiving tape (41 catches) is a mirage at this point.",
+    "verdict": "TD scorer with declining efficiency. RB3 floor, RB2 ceiling in the right spot."
+  },
+  "fields": {
+    "shortReport": "Grad transfer WR with three straight 800+ yd seasons — 55-811-5 (UVA), 55-808-7 (UVA), 56-805-6 (ND). Remarkably consistent. Not flashy but reliable. 14.4-14.7 YPR shows downfield ability.",
+    "strengths": [
+      "Three straight 800+ yd seasons — remarkable consistency across two programs",
+      "14.4-14.7 YPR — wins downfield with tracking and body control",
+      "Grad transfer to ND and didn't miss a beat — NFL-ready preparation",
+      "Reliable hands — drops are rare, catches in traffic consistently"
+    ],
+    "weaknesses": [
+      "Not sudden or explosive — wins with technique and size, not burst",
+      "Older prospect — grad transfer means he's already 23-24",
+      "Never had a true breakout — 800 yds is good not great",
+      "TD production modest (5-7 per year) — limited red-zone upside"
+    ],
+    "nflFit": "Possession Z-receiver in a timing-based offense. His consistency is his calling card — he'll be a reliable NFL starter but never a star.",
+    "comp": "Allen Robinson — consistent, reliable, not explosive",
+    "dynastyOutlook": "WR4/5 with a safe floor. The consistency is appealing but the ceiling is capped. Older prospect reduces long-term upside.",
+    "badgersFit": "Fields is the definition of steady — 800+ yds every year, never spectacular, never invisible. At pick 3.74 he's a solid WR4/5 who won't tank your week. The age (grad transfer) limits his dynasty upside. He's a win-now piece, not a keeper. Grab him if you need reliable WR depth.",
+    "verdict": "Consistent possession WR. Safe floor, capped ceiling."
+  },
+  "branch": {
+    "shortReport": "USC→Georgia transfer WR with elite return ability (2 KR TD, 1 PR TD in 2023) and ascending receiving production — 45→46→50 catches. Speed and elusiveness in space are his calling cards. Receiving volume is modest but the return value adds a floor.",
+    "strengths": [
+      "Elite return ability — 2 KR TD and 1 PR TD in 2023, 1 KR TD in 2024",
+      "Speed and elusiveness in space — makes defenders miss in the open field",
+      "Ascending receiving production: 45→46→50 catches, 3→4→6 TDs",
+      "Versatile — contributes as a runner on jet sweeps (4-63 in 2023)"
+    ],
+    "weaknesses": [
+      "Modest receiving volume — 50 catches in 2025 isn't WR1 territory",
+      "Return TDs are fluky — can't count on them year over year",
+      "Smaller frame — can be erased by press coverage",
+      "USC→UGA transfer — needed a bigger stage but production didn't spike"
+    ],
+    "nflFit": "Slot/returner in a spread offense. The return value gives him a roster floor even if the offense doesn't feature him as a receiver.",
+    "comp": "Devin Duvernay — return value plus slot receiving",
+    "dynastyOutlook": "WR5/6 with return-yard value. In standard leagues he's a fringe roster player. In return-yard leagues he's a WR4.",
+    "badgersFit": "Branch is a return-league asset more than a fantasy WR. The 3 return TDs in 2023 are flashy but not sustainable. At pick 3.79 he's only worth it if your league counts return yards. Otherwise, his 50-624-6 receiving line is WR5 territory. Pass in standard formats.",
+    "verdict": "Return-league specialist. Limited standard fantasy value."
+  },
+  "sarratt": {
+    "shortReport": "JMU→Indiana transfer WR with three straight 950+ yd seasons — 67-1028-8, 53-957-8, 59-992-7. Elite YPR (15.3-18.1-16.8) shows downfield ability. Production translates across levels — G5 to P5 without missing a beat.",
+    "strengths": [
+      "Three straight 950+ yd seasons — production is undeniable across two programs",
+      "Elite YPR: 15.3→18.1→16.8 — wins downfield consistently",
+      "G5→P5 translation worked — didn't regress at Indiana",
+      "8+ TDs in all three seasons — consistent red-zone contributor"
+    ],
+    "weaknesses": [
+      "JMU production came against lesser competition — some inflation",
+      "TDs declined from 8 to 7 despite more catches in 2025 — slight regression",
+      "Not sudden in breaks — separation against NFL corners is a question",
+      "Older prospect — multiple college seasons mean less developmental upside"
+    ],
+    "nflFit": "Z-receiver in a vertical passing game. The YPR shows he can win downfield. Best with a QB who throws a great deep ball.",
+    "comp": "Darius Slayton — deep-ball specialist with consistent but modest volume",
+    "dynastyOutlook": "WR4/5 with weekly WR3 upside. The YPR is enticing but the volume ceiling is modest. Deep-league stash.",
+    "badgersFit": "Sarratt is a deep-league gem. Three straight 950+ yd seasons with 16+ YPR is rare. At pick 4.115 he's a steal if you need WR depth. The JMU-to-Indiana translation is a strong signal — he produces everywhere. He's your WR5 with WR3 upside. Don't sleep on him in the late rounds.",
+    "verdict": "Consistent deep-ball producer. Deep-league value pick."
+  },
+  "hurst": {
+    "shortReport": "Georgia State WR with absurd production — 52-822-7, 67-1047-11, 74-1202-13. Sun Belt all-time receiving TD leader (31 TDs in 3 seasons). YPR over 15.5 every year. Small-school dominator who could be a late-round gem.",
+    "strengths": [
+      "Sun Belt all-time receiving TD leader — 31 TDs in 3 seasons",
+      "Production climbed every year: 822→1047→1202 yds, 7→11→13 TDs",
+      "YPR over 15.5 every year — wins downfield consistently",
+      "74 catches in 2025 shows he can handle volume, not just big plays"
+    ],
+    "weaknesses": [
+      "Small-school competition — Sun Belt DBs aren't NFL DBs",
+      "TD rate will regress — 13 TDs on 74 catches is elite but unsustainable",
+      "Limited route tree — dominated with size and speed, not technique",
+      "Older prospect — will be 24 as a rookie"
+    ],
+    "nflFit": "X-receiver in a vertical offense. The production is undeniable but the competition jump is real. Best case: he's a late-round WR3. Worst case: he can't separate against NFL corners.",
+    "comp": "Dominique Douglas — small-school producer who translated to a solid NFL role",
+    "dynastyOutlook": "WR5/6 with WR3 upside if he lands in the right offense. The TD production is tantalizing but the competition jump is the risk.",
+    "badgersFit": "Hurst is my favorite late-round dart throw. 31 TDs in 3 seasons at any level is absurd. At pick 3.84 he's worth the gamble — the production is too good to ignore. The Sun Belt competition is a fair concern, but he produced every year and got better every year. He's your WR6 with WR3 upside. In a dynasty league, this is the kind of pick that wins you a championship.",
+    "verdict": "Small-school TD machine. Late-round gem if he translates."
+  },
+  "stribling": {
+    "shortReport": "WSU→Ole Miss transfer WR with solid production — 63-729-4 (WSU), 54-800-6 (Ole Miss). The 2024 dip (34-488-3) with a new QB is concerning but he rebounded in 2025. Reliable possession receiver.",
+    "strengths": ["Reliable possession receiver — catches everything in his frame", "Rebounded from 2024 dip — 54-800-6 in 2025 shows resilience", "Solid route runner — creates separation on intermediate routes"],
+    "weaknesses": ["2024 dip is concerning — disappeared with a new QB", "Not a deep threat — wins underneath, capped YPR", "Modest TD production — 4-6 per year"],
+    "nflFit": "Possession Z-receiver. Best in a timing-based offense that features intermediate routes.",
+    "comp": "Donte Moncrief — flashes of ability but inconsistent",
+    "dynastyOutlook": "WR6/7. Fringe roster player in 12-team leagues.",
+    "badgersFit": "Stribling is roster filler. The 2024 dip when the QB changed is a red flag — NFL QBs change too. At pick 4.33 he's overdrafted for his production. Better options available.",
+    "verdict": "Inconsistent possession WR. Limited dynasty appeal."
+  },
+  "douglas": {
+    "shortReport": "Texas Tech WR with ascending production — 11→40→52 catches, 1→5→7 TDs. Elite YPR (16.8 in 2024, 16.4 in 2025) shows deep-ball ability. Breakout in 2024 after silent 2023.",
+    "strengths": ["Elite YPR — 16.8 in 2024, 16.4 in 2025, wins downfield consistently", "Ascending production every year — 11→40→52 catches", "Deep-ball tracking — adjusts to the ball in flight with natural hands"],
+    "weaknesses": ["Silent 2023 — only 11 catches, slow starter", "One-dimensional — wins on go-balls and posts, limited route tree", "Volume is modest — 52 catches isn't a WR1 workload"],
+    "nflFit": "Deep-ball Z-receiver. Best in a vertical offense that takes shots downfield.",
+    "comp": "Mack Hollins — deep-ball specialist with limited volume",
+    "dynastyOutlook": "WR5/6 with boom weeks. The YPR is enticing but the volume caps his floor.",
+    "badgersFit": "Douglas is a boom/bust WR5 with big-play ability. The 16+ YPR means when he catches it, it's a big gain. But 52 catches gives him a low PPR floor. At pick 4.75 he's a fine dart for your bench. Don't start him unless you need a boom week.",
+    "verdict": "Deep-ball specialist. Boom/bust WR5."
+  },
+  "bernard": {
+    "shortReport": "UW→Alabama transfer WR with ascending production — 41→50→60 catches, 1→5→7 TDs. Also contributed on kick returns (8-167 in 2024). Versatile but lacks elite traits.",
+    "strengths": ["Ascending production: 41→50→60 catches across three seasons", "Versatile — contributes on KR (8-167 in 2024) and gadget runs", "Improved TD production: 1→5→7 — finding the end zone more"],
+    "weaknesses": ["Lacks elite traits — no standout speed, size, or suddenness", "Transfer from UW to Bama — needed elite surroundings to produce", "Modest YPR (10.2→13.7→13.6) — limited big-play ability"],
+    "nflFit": "Depth WR with return value. Best as a WR4/5 who contributes on special teams.",
+    "comp": "Kendrick Bourne — reliable depth WR, nothing special",
+    "dynastyOutlook": "WR6/7. Fringe roster player with return-league value.",
+    "badgersFit": "Bernard is a depth piece with return value. The ascending catches are nice but the lack of elite traits caps his ceiling. At pick 4.47 he's a reach — better WRs are available. Only draft in return-yard leagues.",
+    "verdict": "Depth WR with return value. Limited standard appeal."
+  },
+  "boston": {
+    "shortReport": "Washington WR with elite TD production — 6→9→12 TDs over three seasons (27 total). Red-zone monster with strong hands and timing. Volume is solid (60+ catches in 2024-25). TD rate will regress but the skill is real.",
+    "strengths": ["Elite TD production — 27 TDs in 3 seasons, 12 in 2025 alone", "Red-zone monster — wins with strong hands and timing at the high point", "Volume is solid — 60+ catches in back-to-back seasons", "TD rate improvement every year: 6→9→12"],
+    "weaknesses": ["TD rate (12 on 60 catches = 20%) is unsustainable — expect regression", "Modest YPR (13.2-13.9) — not a deep-ball threat", "Washington offense inflated numbers — spread system with lots of volume"],
+    "nflFit": "Red-zone X-receiver. Best in an offense that needs a jump-ball target. TD dependency makes him boom/bust in fantasy.",
+    "comp": "Tim Patrick — TD-dependent X-receiver with reliable hands",
+    "dynastyOutlook": "WR4/5 with weekly WR2 upside in TD-heavy weeks. The TDs are real but the rate will regress.",
+    "badgersFit": "Boston is a TD scorer, plain and simple. 27 TDs in 3 seasons is elite. But expect 8-9 TDs, not 12. At pick 4.39 he's solid value as your WR4/5. The TD upside means he'll win you weeks. The floor is low without the TDs. Draft him and enjoy the boom weeks.",
+    "verdict": "TD-dependent WR with boom/bust profile. TDs are real, rate will regress."
+  },
+  "brazzell": {
+    "shortReport": "Tulane→Tennessee transfer WR with deep-ball ability — 17.8 YPR at Tulane, 17.6 in 2024 at Tennessee. 2025 saw expanded route tree but lower YPR (14.0). TD production consistent (4-6 per year).",
+    "strengths": ["Elite YPR early — 17.8 and 17.6 in first two seasons, deep-ball specialist", "Expanded route tree in 2025 — adding intermediate routes to his game", "Consistent TD production — 5-4-6 TDs across three seasons"],
+    "weaknesses": ["Volume dip at Tennessee — 40→24→46 catches, inconsistent role", "YPR dropped to 14.0 in 2025 — expanding route tree cost him efficiency", "One-dimensional early — was purely a go-ball receiver at Tulane"],
+    "nflFit": "Deep-ball Z-receiver with expanding route tree. Best in a vertical offense that takes shots downfield.",
+    "comp": "Darius Slayton — deep-ball speed with limited volume",
+    "dynastyOutlook": "WR5/6 with boom weeks. The YPR is enticing but the volume is inconsistent.",
+    "badgersFit": "Brazzell is a deep-ball dart throw. The 17+ YPR early is legit, but the Tennessee volume was inconsistent. At pick 4.83 he's fine for your bench — he'll give you 2-3 boom weeks a year and be invisible the rest. Don't rely on him as a starter.",
+    "verdict": "Deep-ball specialist with inconsistent volume. Boom/bust bench WR."
+  },
+  "coleman-jonah": {
+    "shortReport": "Arizona→Washington transfer RB with three years of workhorse production — 147→195→203 carries, 871→1053→1128 rush yds. Receiving upside emerging: 18-114-1TD in 2025. TD production climbed: 7→10→11. The definition of a volume grinder.",
+    "strengths": ["Workhorse volume — 147→195→203 carries, proven over full seasons", "TD production climbed: 7→10→11 — nose for the end zone improving", "Receiving upside emerging: 8→15→18 catches, 48→89→114 yds", "Durable — no significant injuries despite heavy workload"],
+    "weaknesses": ["Modest YPC: 5.9→5.4→5.6 — not a big-play runner", "Heavy mileage: 545 career carries, tread on the tires", "Receiving volume still low — 18 catches isn't a three-down profile", "Arizona→Washington transfer — needed better OL to produce"],
+    "nflFit": "Early-down grinder in a committee. Best in a power-run scheme that feeds him between the tackles. Receiving ability keeps him on the field on some third downs.",
+    "comp": "David Montgomery — volume grinder with modest efficiency, TD scorer",
+    "dynastyOutlook": "RB3/4 with weekly RB2 upside if he wins a lead role. The volume is appealing but the efficiency is modest.",
+    "badgersFit": "Coleman is a volume RB who'll give you steady points without big plays. At pick 4.108 he's solid value as your RB3. The 200+ carry workload means he'll produce even if the YPC is boring. The receiving growth (18 catches in 2025) adds PPR flex appeal. He's not sexy but he's reliable.",
+    "verdict": "Volume grinder with steady floor. RB3 with RB2 upside in the right role."
+  },
+  "lance": {
+    "shortReport": "NDSU WR and Trey's brother — 33-605-11TD (18.3 YPR), 48-757-7TD, 52-821-9TD. FCS dominator with 27 TDs in 3 seasons. Elite YPR shows deep-ball ability. FCS-to-NFL jump is the question.",
+    "strengths": ["FCS dominator — 27 TDs in 3 seasons at NDSU", "Elite YPR: 18.3→15.8→15.8 — wins downfield consistently", "TD machine — 9-11 TDs per season, nose for the end zone", "NDSU pedigree — program produces NFL talent regularly"],
+    "weaknesses": ["FCS competition — DBs he faced aren't NFL-caliber", "TD rate will regress — 11 TDs on 33 catches is unsustainable", "Route tree likely limited — NDSU offense is run-heavy with play-action shots", "One-dimensional — wins on go-balls and posts, not a complete route runner"],
+    "nflFit": "Deep-ball Z-receiver. Best in a vertical offense that takes shots downfield. The FCS jump is real but NDSU has a track record of producing NFL WRs.",
+    "comp": "Christian Watson — NDSU deep-ball specialist with athletic upside",
+    "dynastyOutlook": "WR5/6 with WR3 upside if he translates. The FCS jump is the risk; the TD production is the reward.",
+    "badgersFit": "Lance is my favorite deep-league stash. 27 TDs at NDSU is no joke — that program produces NFL players. At pick 4.136 he's a free dart throw. The 18+ YPR means he's a big-play threat. The FCS jump is real but NDSU WRs have hit before (Christian Watson, Carson Wentz's targets). Stash him on your taxi squad and pray.",
+    "verdict": "FCS TD machine with deep-ball ability. Late-round stash with upside."
+  },
+  "williams-antonio": {
+    "shortReport": "Clemson WR with a massive 2024 breakout — 75-904-11TD after just 20-351-4 in 2023. 2025 was solid (70-832-6) but the TDs regressed. Also contributes on punt returns. The 2024 season could be peak or floor — hard to tell.",
+    "strengths": ["Massive 2024 breakout — 75-904-11TD after 20 catches in 2023", "Punt return value — 10-89 in 2024, 8-61 in 2025", "TD production: 4→11→6 — showed he can score double-digit TDs", "Volume is solid — 70+ catches in back-to-back seasons"],
+    "weaknesses": ["TD regression in 2025 — 11→6 TDs is concerning", "YPR modest: 17.6→12.1→11.9 — declining efficiency with volume", "One elite year — 2023 was quiet, 2025 was merely good", "Clemson offense can be inconsistent — production may fluctuate"],
+    "nflFit": "Slot/returner in a spread offense. Best with a QB who gets the ball out quickly. Return value gives him a roster floor.",
+    "comp": "Jamison Crowder — slot/returner with PPR value in the right role",
+    "dynastyOutlook": "WR5/6 with return-league value. The 2024 breakout is the ceiling; 2025 is probably the floor.",
+    "badgersFit": "Williams is a PPR slot type with return value. The 75-904-11 breakout in 2024 was great but the 2025 regression (70-832-6) is the more likely outcome going forward. At pick 4.71 he's fine as a WR6 with return-league upside. Don't pay for the 2024 ceiling.",
+    "verdict": "Slot/returner with PPR value. 2024 was the ceiling."
+  },
+  "thompson": {
+    "shortReport": "Mississippi State WR with elite YPR (17.7, 17.0) and ascending production — 40-707-6, 52-882-9. Deep-speed threat who wins downfield. Former Texas transfer finding his stride.",
+    "strengths": ["Elite YPR — 17.7 and 17.0, pure deep-ball specialist", "Ascending production — 40→52 catches, 6→9 TDs", "Deep speed — stretches the field vertically"],
+    "weaknesses": ["Two-year sample only — no 2023 tape", "Boom/bust — high YPR means low catch volume weeks", "Limited route tree — wins on go-balls primarily"],
+    "nflFit": "Deep-ball Z-receiver in a vertical offense.",
+    "comp": "KJ Hamler — speed-first deep threat with boom/bust profile",
+    "dynastyOutlook": "WR6/7 with boom weeks. Low PPR floor, big-play ceiling.",
+    "badgersFit": "Thompson is a boom/bust bench WR. The 17+ YPR is real but 52 catches gives him a terrible PPR floor. At pick 5.105 he's a free dart for your bench. He'll win you 2 weeks and disappear for 12.",
+    "verdict": "Deep-speed boom/bust WR. Bench stash only."
+  },
+  "bell-skyler": {
+    "shortReport": "UConn WR with steady production — 54-698-6, 52-717-5. Wisconsin transfer who found his footing at G5. Reliable possession receiver without elite traits.",
+    "strengths": ["Steady production — 54 and 52 catches in two seasons", "Reliable hands — catches everything in his frame"],
+    "weaknesses": ["No elite traits — modest YPR (12.9, 13.8), no speed or size standout", "G5 competition — production came against lesser defenses", "TD regression — 6→5 TDs"],
+    "nflFit": "Depth WR. Best as a WR6/7 on an NFL roster.",
+    "comp": "Riley Ridley — steady but unspectacular",
+    "dynastyOutlook": "WR7. Not rosterable in 12-team leagues.",
+    "badgersFit": "Bell is off the dynasty radar in 12-team leagues. 52 catches at UConn doesn't translate. At pick 5.125 he's not worth a roster spot even as a dart throw.",
+    "verdict": "G5 possession WR. Not dynasty-relevant in 12-team leagues."
+  },
+  "allen-kaytron": {
+    "shortReport": "Penn State RB who took over the lead role in 2025 — 232-1182-12TD (5.1 YPC) with 22-152-1TD receiving. Singleton's backfield mate who finally got the volume. Receiving upside adds PPR flex appeal.",
+    "strengths": ["Workhorse volume in 2025 — 232 carries, 1,182 rush yds", "TD scorer — 12 rushing TDs in 2025", "Receiving upside — 22-152-1TD, functional pass-catcher", "Took over lead role from Singleton — ascending"],
+    "weaknesses": ["One-year sample — 2024 was split duty", "5.1 YPC is modest — not a big-play runner", "Heavy mileage in 2025 (232 carries) — tread on tires"],
+    "nflFit": "Committee back with RB2 upside. Best in a zone scheme that maximizes his volume.",
+    "comp": "Rhamondre Stevenson — volume grinder with receiving upside",
+    "dynastyOutlook": "RB4/5 with RB3 upside if he lands a lead role. The 2025 volume is encouraging.",
+    "badgersFit": "Allen is a volume RB who showed he can handle a workload in 2025. At pick 7.187 he's a late-round dart with RB3 upside if he lands in the right spot. The 22 catches give him PPR flex appeal. Worth a bench stash.",
+    "verdict": "Volume grinder with receiving upside. Late-round RB dart."
+  },
+  "claiborne": {
+    "shortReport": "Wake Forest workhorse RB — 233-1049-11TD (2024), 198-1031-10TD (2025). Receiving upside: 14-98 and 19-131-1TD. 21 TDs in 2 seasons. Modest YPC (4.5-5.2) but the volume and TDs are real.",
+    "strengths": ["TD machine — 21 TDs in 2 seasons", "Workhorse volume — 233 and 198 carries", "Receiving upside — 19-131-1TD in 2025, emerging pass-catcher"],
+    "weaknesses": ["Modest YPC — 4.5 and 5.2, not a big-play runner", "Wake Forest competition — ACC but not elite defenses", "Heavy mileage — 431 carries in 2 seasons"],
+    "nflFit": "Committee back with TD upside. Best in a power scheme near the goal line.",
+    "comp": "Zamir White — volume grinder with TD upside",
+    "dynastyOutlook": "RB5/6 with RB4 upside if he carves out a goal-line role.",
+    "badgersFit": "Claiborne is a TD-dependent RB with modest efficiency. 21 TDs in 2 years is nice but the 4.5-5.2 YPC is concerning. At pick 7.198 he's a dart throw for TD-only leagues. In PPR the 19 catches help but he's still an RB5.",
+    "verdict": "TD-dependent grinder. Late-round dart in TD-heavy formats."
+  },
+  "johnson-emmett": {
+    "shortReport": "Nebraska RB with a massive 2025 breakout — 210-1222-11TD (5.8 YPC) after 124-627-5 in 2024. Receiving upside: 24-168-2TD in 2025. The efficiency jump (5.1→5.8 YPC) is encouraging.",
+    "strengths": ["Massive 2025 breakout — 210 carries, 1,222 yds, 11 TDs", "Efficiency improved — 5.1→5.8 YPC with more volume", "Receiving upside — 24-168-2TD in 2025, functional pass-catcher", "TD scorer — 11 rushing TDs in 2025"],
+    "weaknesses": ["One breakout year — 2024 was modest (124-627-5)", "Nebraska competition — Big Ten but not elite defenses", "Can he sustain 5.8 YPC? — likely regression"],
+    "nflFit": "Committee back with RB2 upside if the 2025 efficiency translates. Best in a zone scheme.",
+    "comp": "Brian Robinson — volume back with emerging efficiency",
+    "dynastyOutlook": "RB4/5 with RB3 upside. The 2025 breakout is encouraging but needs validation.",
+    "badgersFit": "Johnson is an intriguing late-round RB. The 2025 breakout (210-1222-11TD) is eye-popping, and the 24 catches add PPR value. At pick 6.161 he's worth the dart — if the 2025 efficiency is real, he's a steal. If it's a fluke, he's off your roster by September. The 5.8 YPC is the key question.",
+    "verdict": "Breakout RB with intriguing 2025. Late-round upside play."
+  },
+  "bell-chris": {
+    "shortReport": "Louisville WR with solid production — 54-824-6, 60-925-8. Big outside WR with 15+ YPR both seasons. Consistent TD production. Not sudden but wins with size.",
+    "strengths": ["Big outside WR — 15.3 and 15.4 YPR, wins downfield", "Consistent TD production — 6→8 TDs", "Volume climbed — 54→60 catches"],
+    "weaknesses": ["Not sudden — separation against quick-twitch corners is limited", "Louisville competition — ACC but not elite", "TD regression likely — 8 TDs on 60 catches is high rate"],
+    "nflFit": "Outside Z-receiver in a vertical offense. Size and YPR translate.",
+    "comp": "Dontayvion Wicks — big WR with YPR upside",
+    "dynastyOutlook": "WR6/7 with boom weeks. The YPR is enticing but the volume is modest.",
+    "badgersFit": "Bell is a deep-league dart with size and YPR upside. At pick 5.94 he's worth a bench spot — the 15+ YPR means he can boom. But 60 catches gives him a low PPR floor. Best as a WR7 stash.",
+    "verdict": "Big WR with YPR upside. Deep-league bench stash."
+  },
+  "thomas": {
+    "shortReport": "Mississippi State→LSU transfer WR with modest production — 32-432-2, 45-612-4. Also returns punts (8-74 in 2025). Slot/return profile without elite traits.",
+    "strengths": ["Punt return value — 8-74 in 2025", "Ascending production — 32→45 catches, 2→4 TDs"],
+    "weaknesses": ["Modest production — 45-612-4 isn't exciting", "No elite traits — modest YPR (13.5-13.6)", "Slot-only profile — limited snap count"],
+    "nflFit": "Slot/returner. Best as a WR6/7 with return value.",
+    "comp": "Devin Duvernay — return value with slot production",
+    "dynastyOutlook": "WR7. Not rosterable in 12-team standard leagues.",
+    "badgersFit": "Thomas is return-league depth only. 45-612-4 at LSU is underwhelming. At pick 5.89 he's not worth a standard roster spot. Only draft in return-yard leagues.",
+    "verdict": "Slot/returner. Return-league value only."
+  },
+  "black": {
+    "shortReport": "Indiana RB with emerging receiving upside — 143-759-6TD rushing, 28-214-2TD receiving in 2025. Third-down profile developing. Rush efficiency improved (4.7→5.3 YPC).",
+    "strengths": ["Receiving upside — 28-214-2TD in 2025, emerging pass-catcher", "Rush efficiency improved — 4.7→5.3 YPC", "TD production — 6 rush + 2 receiving TDs in 2025"],
+    "weaknesses": ["Modest rush volume — 143 carries isn't workhorse territory", "One breakout year — 2024 was 101-472-4", "Indiana competition — not elite defenses"],
+    "nflFit": "Third-down back with flex upside. Best in a passing offense that features RBs as receivers.",
+    "comp": "Jerick McKinnon — receiving-down specialist",
+    "dynastyOutlook": "RB5/6 with PPR flex upside. The 28 catches are the hook in PPR leagues.",
+    "badgersFit": "Black is a PPR dart throw. The 28-214-2TD receiving line in 2025 is the selling point — he's a pass-catching RB with third-down potential. At pick 5.90 he's worth a stash in PPR leagues. In standard he's irrelevant. The rushing efficiency improvement (4.7→5.3) is a bonus.",
+    "verdict": "PPR dart throw with receiving upside. Standard-league afterthought."
+  },
+  "wetjen": {
+    "shortReport": "Iowa WR — one-year producer with 54-722-6TD and 12 PR for 98 yds. Iowa walk-on to starter story. Limited sample but solid efficiency (13.4 YPR).",
+    "strengths": ["Iowa walk-on success story — proved he can produce at P5 level", "Solid efficiency — 13.4 YPR with 6 TDs", "Punt return value — 12-74 in 2025"],
+    "weaknesses": ["One-year sample — no track record before 2025", "Iowa offense limits upside — historically low-volume passing game", "Walk-on pedigree — NFL teams may doubt the athleticism"],
+    "nflFit": "Depth WR with return value. Best as a WR6/7 who contributes on special teams.",
+    "comp": "Charlie Kolar — overachiever with limited athletic upside",
+    "dynastyOutlook": "WR7. Not rosterable in 12-team leagues.",
+    "badgersFit": "Wetjen is a nice story but not a dynasty asset. One year at Iowa with 54 catches doesn't move the needle. At pick 5.121 he's off the radar in 12-team leagues. Only relevant in return-yard leagues.",
+    "verdict": "One-year Iowa producer. Not dynasty-relevant."
+  },
+  "young": {
+    "shortReport": "Miami→Georgia transfer WR — 40-588-5TD (14.7 YPR) in 2025. One-year sample at Georgia with solid efficiency. Size and YPR are appealing but the volume is modest.",
+    "strengths": ["Solid YPR — 14.7, wins downfield", "Georgia production — produced at an elite program", "5 TDs on 40 catches — red-zone efficiency"],
+    "weaknesses": ["One-year sample — no track record before 2025", "Modest volume — 40 catches isn't enough", "Transfer from Miami — needed a bigger stage"],
+    "nflFit": "Depth WR. Best as a WR6/7 on an NFL roster.",
+    "comp": "Van Jefferson — solid but unspectacular",
+    "dynastyOutlook": "WR7. Fringe roster player in deep leagues.",
+    "badgersFit": "Young is a one-year wonder at Georgia. 40-588-5 is fine but not exciting. At pick 5.140 he's off the dynasty radar in 12-team leagues. Pass.",
+    "verdict": "One-year Georgia producer. Limited dynasty appeal."
+  },
+  "washington-mike": {
+    "shortReport": "Arkansas RB — 146-822-9TD (5.6 YPC) with 12-89 receiving in 2025. One-year starter with SEC production. TD scorer with modest receiving upside.",
+    "strengths": ["SEC production — 822 yds and 9 TDs in the SEC", "5.6 YPC — solid efficiency", "9 TDs — nose for the end zone"],
+    "weaknesses": ["One-year sample — no track record before 2025", "Modest receiving — 12-89-0TD, not a three-down profile", "Older prospect — one-year starter at Arkansas"],
+    "nflFit": "Committee back with TD upside. Best in a power scheme near the goal line.",
+    "comp": "Kareem Hunt — volume grinder with TD scoring ability",
+    "dynastyOutlook": "RB6/7 with RB5 upside if he carves out a goal-line role.",
+    "badgersFit": "Washington is a late-round RB dart with TD upside. 9 TDs in the SEC is legit. At pick 6.122 he's worth a bench spot if you need RB depth. The 12 catches give him a tiny PPR floor. He's an RB6 with RB4 upside if he lands in a TD-friendly spot.",
+    "verdict": "SEC TD scorer. Late-round RB dart with goal-line upside."
+  },
+  "randall": {
+    "shortReport": "Clemson RB — 152-819-8TD (5.4 YPC) with 9-61 receiving in 2025. One-year sample. Bruiser with modest receiving upside.",
+    "strengths": ["8 TDs in 2025 — goal-line ability", "5.4 YPC — solid efficiency for a bruiser"],
+    "weaknesses": ["One-year sample — no track record", "Minimal receiving — 9-61-0TD, two-down profile", "Clemson OL was elite — production may be scheme-driven"],
+    "nflFit": "Committee back. Best in a power scheme as a short-yardage specialist.",
+    "comp": "Cameron Sutton — bruiser with limited receiving",
+    "dynastyOutlook": "RB7. Not rosterable in 12-team leagues.",
+    "badgersFit": "Randall is off the dynasty radar. 152-819-8 at Clemson is fine but the receiving (9 catches) kills his PPR value. At pick 6.174 he's not worth a roster spot. Pass.",
+    "verdict": "One-year bruiser. Not dynasty-relevant in PPR."
+  },
+  "mcgowan": {
+    "shortReport": "Kentucky RB — 189-1025-11TD (5.4 YPC) with 14-98-1TD receiving in 2025. Former Oklahoma signee via JUCO. TD scorer with some receiving upside.",
+    "strengths": ["11 TDs in 2025 — nose for the end zone", "Some receiving upside — 14-98-1TD", "1,000+ yd season at Kentucky — SEC production"],
+    "weaknesses": ["JUCO background — older prospect with limited track record", "5.4 YPC is modest — not a big-play runner", "One-year sample at Kentucky"],
+    "nflFit": "Committee back with TD upside. Best in a goal-line role.",
+    "comp": "Derrick Henry lite — TD scorer with volume, less size and speed",
+    "dynastyOutlook": "RB6/7 with RB5 upside in TD-heavy formats.",
+    "badgersFit": "McGowan is a TD-league dart throw. 11 TDs at Kentucky is nice, but the JUCO background and one-year sample are concerns. At pick 7.237 he's a free dart — the 14 catches give him a tiny PPR floor. Best in TD-only formats.",
+    "verdict": "SEC TD scorer via JUCO. TD-league dart only."
+  },
+  "miller-jam": {
+    "shortReport": "Alabama RB — 164-882-9TD (5.4 YPC) with 11-72 receiving in 2025. Took over the lead role in Alabama's committee. TD scorer with minimal receiving upside.",
+    "strengths": ["Alabama lead back — produced in a committee at an elite program", "9 TDs — goal-line ability", "5.4 YPC — solid efficiency behind Alabama's OL"],
+    "weaknesses": ["Minimal receiving — 11-72-0TD, two-down profile", "Alabama OL inflation — was he good or was the OL good?", "Committee role — never the solo guy"],
+    "nflFit": "Committee back. Best in a power scheme as an early-down grinder.",
+    "comp": "Najee Harris lite — Alabama grinder with less receiving",
+    "dynastyOutlook": "RB6/7. Fringe roster player in deep leagues.",
+    "badgersFit": "Miller is an Alabama committee back with TD upside but no receiving value. At pick 7.245 he's a free dart in TD-only leagues. In PPR he's unrosterable with 11 catches. Pass in standard formats.",
+    "verdict": "Alabama committee back. TD-only dart throw."
+  },
+  "heidenreich": {
+    "shortReport": "Navy RB — 142-687-8TD (4.8 YPC) with 8-52 receiving in 2025. Service academy prospect with limited NFL upside but productive in college.",
+    "strengths": ["8 TDs in 2025 — productive at Navy"],
+    "weaknesses": ["Service academy — competition level is low", "4.8 YPC is modest — not explosive", "Military commitment may delay NFL entry", "Minimal receiving — 8 catches, two-down profile"],
+    "nflFit": "Long-shot NFL prospect. Service academy players face military commitment hurdles.",
+    "comp": "Keenan Reynolds — service academy QB who barely stuck in the NFL",
+    "dynastyOutlook": "Not rosterable. Military commitment makes him undraftable in most dynasty formats.",
+    "badgersFit": "Heidenreich is undraftable in dynasty leagues. The service academy commitment means he may not even play in the NFL. At pick 7.230 he's a hard pass regardless of the 8 TDs.",
+    "verdict": "Service academy RB. Undraftable due to military commitment."
+  },
+  "law": {
+    "shortReport": "Kentucky WR — 49-632-5TD (12.9 YPR) with KR value (6-142 in 2025). Slot/return profile without elite traits.",
+    "strengths": ["KR value — 6-142 in 2025", "5 TDs on 49 catches — decent red-zone rate"],
+    "weaknesses": ["Modest production — 49-632-5 isn't exciting", "12.9 YPR — no deep-ball ability", "Slot-only — limited snap count"],
+    "nflFit": "Slot/returner. Best as a WR7 with special-teams value.",
+    "comp": "Devin Duvernay — return value with slot production",
+    "dynastyOutlook": "WR7. Return-league value only.",
+    "badgersFit": "Law is return-league depth only. 49-632-5 at Kentucky is underwhelming. At pick 6.168 he's not worth a standard roster spot. Only draft in return-yard leagues.",
+    "verdict": "Slot/returner. Return-league value only."
+  },
+  "allen-cyrus": {
+    "shortReport": "Cincinnati WR — 45-678-5TD (15.1 YPR) in 2025. Georgia Tech transfer with deep-ball speed. One-year sample with appealing YPR.",
+    "strengths": ["15.1 YPR — deep-ball speed", "5 TDs on 45 catches — solid efficiency"],
+    "weaknesses": ["One-year sample at Cincy", "G5 competition", "Limited route tree — speed-first player"],
+    "nflFit": "Deep-ball specialist. Best in a vertical offense.",
+    "comp": "KJ Hamler — speed-first deep threat",
+    "dynastyOutlook": "WR7. Boom/bust bench stash in deep leagues.",
+    "badgersFit": "Allen is a deep-league boom/bust stash. The 15.1 YPR is real but 45 catches at Cincy is modest. At pick 6.176 he's a free dart for your taxi squad. He'll either hit 2-3 big weeks or be off your roster by October.",
+    "verdict": "Speed-first deep threat. Deep-league boom/bust stash."
+  },
+  "coleman-kevin": {
+    "shortReport": "Missouri WR — 52-712-6TD (13.7 YPR) with PR value (5-38 in 2025). Slot/return profile with decent production.",
+    "strengths": ["52 catches with 6 TDs — solid slot production", "PR value — 5-38 in 2025"],
+    "weaknesses": ["Modest YPR — 13.7, no deep-ball ability", "Slot-only — limited snap count", "SEC but not elite competition week over week"],
+    "nflFit": "Slot/returner. Best as a WR6/7 with special-teams value.",
+    "comp": "Jamison Crowder — slot/returner with PPR value",
+    "dynastyOutlook": "WR7. Fringe roster player in deep PPR leagues.",
+    "badgersFit": "Coleman is deep PPR league depth. 52-712-6 at Mizzou is fine but not exciting. At pick 6.177 he's a free dart in PPR leagues. In standard he's off the radar.",
+    "verdict": "Slot/returner. Deep PPR league dart only."
+  },
+  "virgil": {
+    "shortReport": "Texas Tech WR — 48-833-7TD (17.4 YPR) in 2025. Elite YPR with small-school profile. Deep-ball specialist who wins downfield.",
+    "strengths": ["Elite YPR — 17.4, pure deep-ball specialist", "7 TDs on 48 catches — strong efficiency"],
+    "weaknesses": ["Small-school profile — Texas Tech isn't producing NFL WRs regularly", "One-year sample", "Boom/bust — high YPR means low catch volume weeks"],
+    "nflFit": "Deep-ball Z-receiver in a vertical offense.",
+    "comp": "Mack Hollins — deep-ball specialist with limited volume",
+    "dynastyOutlook": "WR7. Boom/bust bench stash in deep leagues.",
+    "badgersFit": "Virgil is a boom/bust dart with elite YPR. 17.4 YPR at Texas Tech is eye-catching but 48 catches gives him a terrible PPR floor. At pick 6.143 he's a free dart for deep leagues. He'll win you 2 weeks and vanish for 12.",
+    "verdict": "Elite YPR deep threat. Boom/bust dart for deep leagues."
+  },
+  "brown-barion": {
+    "shortReport": "LSU WR — 38-567-4TD (14.9 YPR) with KR value (9-198 in 2025). Kentucky transfer with return upside. Modest receiving volume.",
+    "strengths": ["KR value — 9-198 in 2025", "14.9 YPR — decent downfield ability"],
+    "weaknesses": ["Modest volume — 38 catches at LSU", "4 TDs — limited scoring upside", "Return-league value only in standard formats"],
+    "nflFit": "Returner with slot depth. Best as a WR7 with special-teams value.",
+    "comp": "Devin Duvernay — return value with slot production",
+    "dynastyOutlook": "WR7. Return-league value only.",
+    "badgersFit": "Brown is return-league depth. 38-567-4 at LSU is underwhelming. At pick 6.190 he's only worth a look in return-yard leagues. Pass in standard.",
+    "verdict": "Return-league specialist. No standard value."
+  },
+  "cameron": {
+    "shortReport": "Baylor WR — 55-808-7TD (14.7 YPR) in 2025. UCF transfer who produced at Baylor. Solid slot production with decent efficiency.",
+    "strengths": ["55 catches with 7 TDs — solid slot production", "14.7 YPR — wins downfield for a slot receiver"],
+    "weaknesses": ["G5 competition — Baylor/UCF not elite", "One productive year at Baylor", "Slot-only — limited snap count"],
+    "nflFit": "Slot receiver. Best as a WR6/7 in a spread offense.",
+    "comp": "Kendrick Bourne — reliable slot depth",
+    "dynastyOutlook": "WR7. Fringe roster player in deep PPR leagues.",
+    "badgersFit": "Cameron is deep PPR depth. 55-808-7 at Baylor is solid G5 production. At pick 6.191 he's a free dart in deep PPR leagues. In standard he's off the radar.",
+    "verdict": "G5 slot producer. Deep PPR dart only."
+  },
+  "benson": {
+    "shortReport": "Oregon WR — 42-628-4TD (15.0 YPR) in 2025. JUCO→Alabama→Oregon path. Deep-ball specialist with a winding college career.",
+    "strengths": ["15.0 YPR — deep-ball ability", "Produced at Oregon after Alabama didn't work out"],
+    "weaknesses": ["Winding path — JUCO→Bama→Oregon, couldn't stick at elite programs", "Modest volume — 42 catches", "4 TDs — limited scoring upside"],
+    "nflFit": "Deep-ball specialist. Best in a vertical offense as a WR6/7.",
+    "comp": "Mack Hollins — journeyman deep-ball specialist",
+    "dynastyOutlook": "WR7. Not rosterable in 12-team leagues.",
+    "badgersFit": "Benson is off the dynasty radar. Couldn't produce at Alabama, went to Oregon, and managed 42-628-4. At pick 6.195 he's a hard pass. The JUCO→Bama→Oregon path screams 'not good enough for elite programs.'",
+    "verdict": "Journeyman deep-ball WR. Not dynasty-relevant."
+  },
+  "daniels-cj": {
+    "shortReport": "Miami WR — 48-712-6TD (14.8 YPR) in 2025. Liberty→Miami transfer. G5→P5 step up with solid production.",
+    "strengths": ["G5→P5 translation worked — produced at Miami after Liberty", "14.8 YPR — wins downfield", "6 TDs on 48 catches — decent efficiency"],
+    "weaknesses": ["One-year P5 sample", "48 catches — modest volume", "Older prospect — multiple college stops"],
+    "nflFit": "Depth WR. Best as a WR6/7 on an NFL roster.",
+    "comp": "Kendrick Bourne — reliable depth WR",
+    "dynastyOutlook": "WR7. Fringe roster player in deep leagues.",
+    "badgersFit": "Daniels is deep-league depth. 48-712-6 at Miami is fine but not exciting. At pick 6.197 he's a free dart in deep leagues only. Pass in 12-team formats.",
+    "verdict": "G5→P5 transfer. Deep-league depth only."
+  },
+  "henderson-emm": {
+    "shortReport": "Kansas WR — 38-588-4TD (15.5 YPR) with KR value (7-161 in 2025). Alabama→Kansas transfer. Speed/return profile.",
+    "strengths": ["15.5 YPR — speed shows up on tape", "KR value — 7-161 in 2025"],
+    "weaknesses": ["Couldn't produce at Alabama — 38 catches at Kansas is modest", "Speed/return only — limited route tree", "4 TDs — minimal scoring upside"],
+    "nflFit": "Returner with deep-ball ability. Best as a WR7 with special-teams value.",
+    "comp": "Devin Duvernay — return value with speed",
+    "dynastyOutlook": "WR7. Return-league value only.",
+    "badgersFit": "Henderson is return-league depth. Couldn't stick at Alabama, went to Kansas, managed 38 catches. At pick 6.199 he's only worth a look in return-yard leagues. Pass in standard.",
+    "verdict": "Speed/return specialist. Return-league value only."
+  },
+  "williams-cj": {
+    "shortReport": "Stanford WR — 42-545-3TD (13.0 YPR) in 2025. USC→Stanford transfer. Possession profile without elite traits.",
+    "strengths": ["42 catches — reliable possession target"],
+    "weaknesses": ["13.0 YPR — no deep-ball ability", "3 TDs — minimal scoring upside", "USC→Stanford — couldn't produce at either elite program"],
+    "nflFit": "Depth possession WR. Best as a WR7 on an NFL roster.",
+    "comp": "Riley Ridley — steady but unspectacular",
+    "dynastyOutlook": "WR8. Not rosterable in any format.",
+    "badgersFit": "Williams is off the dynasty radar. 42-545-3 at Stanford is replacement-level. At pick 6.203 he's a hard pass.",
+    "verdict": "Possession WR without elite traits. Not dynasty-relevant."
+  },
+  "bond": {
+    "shortReport": "Boston College WR — 56-729-5TD (13.0 YPR) in 2025. Steady producer with reliable hands. Modest efficiency but consistent volume.",
+    "strengths": ["56 catches — reliable volume", "5 TDs — decent scoring", "Reliable hands — catches everything"],
+    "weaknesses": ["13.0 YPR — no deep-ball ability", "BC competition — ACC bottom tier", "No elite traits — modest athlete"],
+    "nflFit": "Depth possession WR. Best as a WR7 on an NFL roster.",
+    "comp": "Kendrick Bourne — reliable depth WR",
+    "dynastyOutlook": "WR8. Not rosterable in 12-team leagues.",
+    "badgersFit": "Bond is off the dynasty radar. 56-729-5 at BC is fine but not exciting. At pick 6.204 he's a hard pass. No elite traits to hang your hat on.",
+    "verdict": "Steady BC producer. Not dynasty-relevant."
+  },
+  "smith-anthony": {
+    "shortReport": "East Carolina WR — 60-882-7TD (14.7 YPR) with KR value (5-112 in 2025). G5 producer with return upside.",
+    "strengths": ["60 catches at G5 level — volume producer", "KR value — 5-112 in 2025", "7 TDs — decent scoring"],
+    "weaknesses": ["G5 competition — ECU isn't producing NFL WRs", "14.7 YPR inflated by weaker competition", "Return-league value only in standard formats"],
+    "nflFit": "Returner with slot depth. Best as a WR7 with special-teams value.",
+    "comp": "Devin Duvernay — return value with G5 production",
+    "dynastyOutlook": "WR7. Return-league value only.",
+    "badgersFit": "Smith is return-league depth. 60-882-7 at ECU is nice G5 production but doesn't translate. At pick 6.218 he's only worth a look in return-yard leagues. Pass in standard.",
+    "verdict": "G5 producer with return value. Return-league only."
+  },
+  "burks": {
+    "shortReport": "Oklahoma WR — 38-512-4TD (13.5 YPR) in 2025. Purdue→Oklahoma transfer. Slot-only profile with modest production.",
+    "strengths": ["Produced at Oklahoma after Purdue — P5 translation"],
+    "weaknesses": ["38 catches — minimal volume", "4 TDs — limited scoring", "Slot-only — limited snap count", "Purdue→Oklahoma — couldn't stick at first stop"],
+    "nflFit": "Slot depth WR. Best as a WR7 on an NFL roster.",
+    "comp": "Riley Ridley — steady but unspectacular",
+    "dynastyOutlook": "WR8. Not rosterable in any format.",
+    "badgersFit": "Burks is off the dynasty radar. 38-512-4 at Oklahoma is underwhelming for a slot-only player. At pick 7.254 he's the last pick in the draft — and still not worth a roster spot. Hard pass.",
+    "verdict": "Slot-only with modest production. Not dynasty-relevant."
+  },
+  "beck": {
+    "shortReport": "Georgia→Miami transfer QB — 3,485-28-12 at UGA in 2024, 3,200-22-8 at Miami in 2025. Classic pocket passer with negative rush value (-18 yds in 2024). Arm talent is real but mobility is a liability in fantasy.",
+    "strengths": ["Elite arm talent — can make every throw on the field", "3,485 yds and 28 TDs at Georgia in 2024 shows ceiling", "Experienced — multi-year starter at two elite programs"],
+    "weaknesses": ["Negative rush value — 28-(-18)-0TD in 2024, 34-12-1TD in 2025, not a runner", "INT spike at Miami — 8 INTs on lower volume, decision-making declining?", "Pocket-only — if the OL breaks down, he's a sack", "TDs declined: 28→22 — trending wrong"],
+    "nflFit": "Pure pocket passer in a pro-style system. Needs a good OL to succeed. No fantasy rushing floor.",
+    "comp": "Kirk Cousins — pocket passer with arm talent, no mobility",
+    "dynastyOutlook": "QB4/5 in superflex. The lack of rushing kills his fantasy value. He's a streaming QB in single-QB leagues.",
+    "badgersFit": "Beck is unrosterable in single-QB leagues and a QB3 in superflex. The negative rushing value means he has zero floor beyond his passing production. At pick 3.65 he's a reach — you can get a mobile QB later who'll give you more fantasy points. Only draft in 2QB leagues as a backup.",
+    "verdict": "Pocket-only QB with no rushing floor. Fantasy afterthought in single-QB."
+  },
+  "allar": {
+    "shortReport": "Penn State multi-year starter — 3,327-24-8 in 2024, 3,209-22-7 in 2025. Big arm, limited mobility (52-82-3TD rushing in 2024). Steady but unspectacular. The rushing TDs (3-2) give him a tiny floor.",
+    "strengths": ["Multi-year PSU starter — experienced and NFL-ready", "Big arm — can drive the ball downfield", "Modest rushing TDs (3+2) — gives him a tiny fantasy floor"],
+    "weaknesses": ["Limited mobility — 82 rush yds in 2024, 68 in 2025, not a runner", "TD production declined: 24→22 — not ascending", "Completion percentage modest: 63.4%→65.1% — accuracy is good not great"],
+    "nflFit": "Pocket passer in a pro-style system. The arm talent will get him drafted but the mobility limits his fantasy ceiling.",
+    "comp": "Daniel Jones — big arm, limited mobility, modest production",
+    "dynastyOutlook": "QB4/5 in superflex. Streaming QB in single-QB. The 2-3 rushing TDs per year give him a floor but not enough to be a weekly starter.",
+    "badgersFit": "Allar is a QB3 in superflex and unrosterable in single-QB. The 2-3 rushing TDs per year are nice but 68 rush yds in 2025 is basically nothing. At pick 3.76 he's a reach for fantasy. Only draft in 2QB leagues as a backup.",
+    "verdict": "Pocket QB with tiny rushing floor. QB3 in superflex only."
+  },
+  "klubnik": {
+    "shortReport": "Clemson dual-threat QB — 3,458-26-9 passing with 78-284-5TD rushing in 2025. Improved accuracy (66.2%) with real rushing upside. The dual-threat profile gives him a weekly QB1 floor.",
+    "strengths": ["Dual-threat — 284 rush yds and 5 TDs give him a fantasy floor", "Improved accuracy — 66.2% in 2025, trending up", "26 passing TDs — solid production", "5 rushing TDs — can win weeks with his legs alone"],
+    "weaknesses": ["9 INTs — still makes some bad decisions", "284 rush yds is modest for a 'dual-threat' — not Jalen Hurts", "Clemson offense can be inconsistent — production fluctuates"],
+    "nflFit": "Dual-threat QB in a spread/RPO system. The rushing TDs make him a fantasy asset even if the passing is inconsistent.",
+    "comp": "Dak Prescott — functional runner with above-average passing",
+    "dynastyOutlook": "QB3/4 in superflex. The 5 rushing TDs give him streaming value in single-QB.",
+    "badgersFit": "Klubnik is the best QB3 option in this class for fantasy. The 5 rushing TDs give him a weekly floor that pocket passers like Beck and Allar can't match. At pick 4.110 he's worth a stash in superflex. In single-QB he's a streamer with upside. The 66.2% accuracy is encouraging.",
+    "verdict": "Dual-threat with rushing floor. Best QB3 for fantasy in this tier."
+  },
+  "payton": {
+    "shortReport": "NDSU dual-threat QB — 2,890-24-5 passing with 94-412-7TD rushing in 2025. FCS production with real rushing upside (7 TDs). The FCS jump and projection uncertainty are the risks.",
+    "strengths": ["7 rushing TDs — elite fantasy floor for a QB", "24-5 TD-INT ratio — efficient passer at FCS level", "94-412 rushing — legitimate dual-threat"],
+    "weaknesses": ["FCS competition — NDSU to NFL is a massive jump", "2,890 yds at FCS doesn't translate directly", "Projection uncertainty — could be Trey Lance or could be out of the league"],
+    "nflFit": "Dual-threat QB in a spread system. The rushing TDs make him a fantasy asset but the FCS jump is real.",
+    "comp": "Trey Lance — NDSU dual-threat with high variance",
+    "dynastyOutlook": "QB5/6 in superflex. High-variance stash — could be a league winner or a complete bust.",
+    "badgersFit": "Payton is the ultimate boom/bust QB stash. 7 rushing TDs at NDSU is the fantasy hook — that's a weekly QB1 floor if it translates. At pick 6.178 he's a free dart in superflex leagues. In single-QB he's not worth the roster spot. The FCS jump is the risk; the rushing TDs are the reward. Taxi squad only.",
+    "verdict": "FCS dual-threat with rushing upside. Boom/bust taxi squad stash."
+  },
+  "green": {
+    "shortReport": "Boise State→Arkansas QB — 2,712-18-11 passing with 112-488-6TD rushing in 2025. Legs-first QB with accuracy concerns (59.8%). The 6 rushing TDs are the only fantasy hook.",
+    "strengths": ["6 rushing TDs — gives him a fantasy floor", "488 rush yds — legitimate runner", "18 passing TDs — can produce through the air occasionally"],
+    "weaknesses": ["59.8% completion — accuracy is a major concern", "11 INTs — turnover-prone", "Legs-first — passing ceiling is limited", "Boise State→Arkansas — couldn't win at either stop consistently"],
+    "nflFit": "Backup QB with rushing upside. Best as a gadget/relief QB who can run.",
+    "comp": "Tyson Bagent — legs-first backup with limited passing ceiling",
+    "dynastyOutlook": "QB6/7. Streaming option in superflex during bye weeks. Not rosterable in single-QB.",
+    "badgersFit": "Green is a streaming QB in superflex only. The 6 rushing TDs are nice but 59.8% accuracy and 11 INTs are disqualifying for a long-term asset. At pick 6.182 he's a free dart in 2QB leagues. In single-QB he's off the radar entirely.",
+    "verdict": "Legs-first QB with accuracy concerns. Superflex streamer only."
+  },
+  "kaliakmanis": {
+    "shortReport": "Minnesota→Rutgers QB — 2,680-18-10 passing with 56-98-2TD rushing in 2025. Arm talent but streaky. Minimal rushing value (98 yds).",
+    "strengths": ["Arm talent — can make every throw when he's on", "18 TDs — showed he can produce at Rutgers"],
+    "weaknesses": ["Streaky — brilliant one week, invisible the next", "10 INTs — turnover-prone", "Minimal rushing — 98 yds and 2 TDs, no floor", "61.3% completion — accuracy is inconsistent"],
+    "nflFit": "Backup QB. Best in a system that maximizes arm talent and minimizes decision-making.",
+    "comp": "Mike White — arm talent but inconsistent",
+    "dynastyOutlook": "QB7. Not rosterable in any format.",
+    "badgersFit": "Kaliakmanis is off the fantasy radar. 98 rush yds gives him zero floor, and the streaky passing means he'll tank your week as often as he wins it. At pick 7.223 he's a hard pass.",
+    "verdict": "Streaky arm-only QB. Not fantasy-relevant."
+  },
+  "morton": {
+    "shortReport": "Texas Tech QB — 2,944-21-9 passing with 42-62-1TD rushing in 2025. Air Raid product with quick release but limited arm strength and minimal rushing value.",
+    "strengths": ["Quick release — gets the ball out fast, Air Raid trained", "21 TDs — productive in the system", "64.7% completion — accurate in the short/intermediate game"],
+    "weaknesses": ["Limited arm strength — can't drive the ball downfield", "Minimal rushing — 62 yds and 1 TD, no floor", "9 INTs — makes some bad decisions under pressure", "Air Raid system inflation — numbers may not translate"],
+    "nflFit": "Backup QB in a West Coast system. The quick release is his calling card but the arm strength limits his ceiling.",
+    "comp": "Cooper Rush — quick-release backup with limited upside",
+    "dynastyOutlook": "QB7. Not rosterable in any format.",
+    "badgersFit": "Morton is off the fantasy radar. 62 rush yds and limited arm strength make him a backup-only prospect. At pick 7.234 he's a hard pass for fantasy.",
+    "verdict": "Air Raid backup. Not fantasy-relevant."
+  },
+  "nussmeier": {
+    "shortReport": "LSU gunslinger QB — 3,112-24-11 passing with 38-28-1TD rushing in 2025. High-variance passer with streaky production. Minimal rushing value. The arm talent is real but the turnover issues are concerning.",
+    "strengths": ["Arm talent — can make every throw, LSU pedigree", "24 TDs — can produce in streaks", "3,112 yds — volume passer in a pass-heavy offense"],
+    "weaknesses": ["11 INTs — turnover-prone gunslinger", "Minimal rushing — 28 yds and 1 TD, no floor", "High variance — brilliant one week, terrible the next", "62.9% completion — accuracy is inconsistent"],
+    "nflFit": "Backup QB with starter upside in the right system. Best in a vertical passing game that maximizes arm talent.",
+    "comp": "Jameis Winston — gunslinger with high variance",
+    "dynastyOutlook": "QB5/6 in superflex. Streaming option with boom/bust weeks.",
+    "badgersFit": "Nussmeier is a boom/bust streamer in superflex. 24 TDs is nice but 11 INTs and 28 rush yds make him unrosterable in single-QB. At pick 7.249 he's a free dart in 2QB leagues only. The LSU pedigree gives him a chance, but the gunslinger mentality will kill your week as often as he wins it.",
+    "verdict": "LSU gunslinger. Boom/bust superflex streamer only."
+  },
+  "stowers": {
+    "shortReport": "Texas A&M→Vanderbilt TE — 49-638-5TD (2024), 58-729-6TD (2025). Athletic move TE with ascending production. YPR solid (12.6-13.0). The best TE in this class after Sadiq.",
+    "strengths": ["Ascending production — 49→58 catches, 5→6 TDs", "Athletic move TE — creates mismatches in the slot", "Solid YPR — 12.6-13.0, wins down the seam", "SEC production — proved it against elite competition"],
+    "weaknesses": ["Blocking is limited — move TE only, won't play inline", "Vanderbilt volume — modest target share in a run-heavy offense", "Not a red-zone monster — 5-6 TDs is good not great for a TE"],
+    "nflFit": "Move TE in a spread offense. Best as an F-back who creates mismatches. Won't be an every-down inline TE.",
+    "comp": "Dalton Kincaid — athletic move TE with receiving upside",
+    "dynastyOutlook": "TE2 with weekly TE1 upside. The ascending production is encouraging. Second TE off the board after Sadiq.",
+    "badgersFit": "Stowers is the TE2 in this class. If you miss on Sadiq, Stowers is your consolation prize — and he's not a bad one. 58-729-6 at Vanderbilt is solid SEC production. At pick 3.54 he's worth it if you need a TE. The ascending production (49→58 catches) means he's still improving.",
+    "verdict": "Ascending move TE. TE2 in this class with TE1 upside."
+  },
+  "boerkircher": {
+    "shortReport": "Texas A&M TE — 18-178-2TD (2024), 24-218-3TD (2025). Blocking-first TE with limited receiving ceiling. TD production modest.",
+    "strengths": ["Blocking-first — will stick on an NFL roster for his blocking", "Modest receiving improvement — 18→24 catches"],
+    "weaknesses": ["Limited receiving ceiling — 24-218-3 is TE3 territory", "Not a move TE — inline only, limited route running", "3 TDs — minimal scoring upside"],
+    "nflFit": "Blocking TE. Best as a TE2 in a run-heavy offense. Not a fantasy asset.",
+    "comp": "C.J. Fiedorowicz — blocking TE with minimal fantasy value",
+    "dynastyOutlook": "TE3. Not rosterable in 12-team leagues.",
+    "badgersFit": "Boerkircher is off the dynasty radar. 24-218-3 at TAMU is replacement-level TE production. At pick 3.56 he's a hard pass for fantasy. He'll stick in the NFL as a blocker but won't help your team.",
+    "verdict": "Blocking TE. No fantasy value."
+  },
+  "klein": {
+    "shortReport": "Michigan TE — 32-428-3TD (13.4 YPR) in 2025. German import with basketball background. Raw but athletic. Intriguing upside but very raw.",
+    "strengths": ["Basketball background — athletic upside at 6'6\"", "13.4 YPR — wins down the seam when he gets the ball", "Michigan pedigree — developed in a pro-style offense"],
+    "weaknesses": ["Raw — German import, limited football experience", "One-year sample — 32 catches isn't much", "Blocking is a question — needs technique work"],
+    "nflFit": "Developmental move TE. Best on a practice squad for a year. The athleticism is intriguing but he's years away.",
+    "comp": "Mo Alie-Cox — basketball-to-TE convert with athletic upside",
+    "dynastyOutlook": "TE4. Taxi squad stash in deep leagues only.",
+    "badgersFit": "Klein is a taxi squad stash with athletic upside. The basketball background at 6'6\" is intriguing but 32 catches at Michigan is a small sample. At pick 3.59 he's worth a taxi spot in deep leagues. He's 2-3 years away from contributing. Don't draft him if you need TE help now.",
+    "verdict": "Raw athletic TE. Taxi squad stash only."
+  },
+  "klare": {
+    "shortReport": "Stanford→Ohio State TE — 51-685-4TD (2024), 46-595-5TD (2025). Reliable intermediate target with solid volume. TD production improved (4→5).",
+    "strengths": ["Reliable volume — 51 and 46 catches in two seasons", "TD production improved — 4→5 TDs", "Stanford→OSU translation worked — produced at an elite program", "13.4-12.9 YPR — wins down the seam"],
+    "weaknesses": ["Not a dynamic athlete — reliable but not explosive", "Catches declined — 51→46, slight regression", "OSU system inflation — surrounded by elite playmakers"],
+    "nflFit": "Possession TE in a pro-style offense. Best as a TE2 who moves the chains.",
+    "comp": "Austin Hooper — reliable possession TE",
+    "dynastyOutlook": "TE3. Streaming option in TE-premium leagues.",
+    "badgersFit": "Klare is a reliable streaming TE. 51-685-4 at OSU is solid production. At pick 3.61 he's worth a look in TE-premium leagues. In standard he's a streamer — 4-5 TDs and 46-51 catches is TE12-15 territory. Draft him if you missed on Sadiq and Stowers.",
+    "verdict": "Reliable possession TE. Streamer in standard, viable in TE-premium."
+  },
+  "roush": {
+    "shortReport": "Stanford TE — 38-423-3TD (11.1 YPR) in 2025. Possession TE with modest production. Stanford legacy.",
+    "strengths": ["38 catches — reliable volume at Stanford"],
+    "weaknesses": ["11.1 YPR — no seam-stretching ability", "3 TDs — minimal scoring upside", "Stanford offense — limited passing volume"],
+    "nflFit": "Depth TE. Best as a TE3 on an NFL roster.",
+    "comp": "C.J. Fiedorowicz — reliable but limited",
+    "dynastyOutlook": "TE4. Not rosterable in 12-team leagues.",
+    "badgersFit": "Roush is off the dynasty radar. 38-423-3 at Stanford is replacement-level. At pick 3.69 he's a hard pass for fantasy.",
+    "verdict": "Possession TE. No fantasy value."
+  },
+  "delp": {
+    "shortReport": "Georgia TE — 21-318-4TD (2024), 34-482-6TD (2025). Red-zone upside with improving volume. UGA run-heavy offense limits his ceiling but the TD rate is elite.",
+    "strengths": ["Red-zone upside — 4+6 TDs on limited volume", "TD rate is elite — 10 TDs on 55 catches (18.2%)", "15.1 YPR in 2024 — wins down the seam", "Produced at Georgia — SEC pedigree"],
+    "weaknesses": ["UGA run-heavy offense limits volume — 21-34 catches", "TD rate will regress — 18.2% is unsustainable", "Not a move TE — inline blocker first, receiver second"],
+    "nflFit": "Inline TE with red-zone value. Best in a run-heavy offense that uses play-action near the goal line.",
+    "comp": "Austin Hooper — inline TE with TD upside",
+    "dynastyOutlook": "TE3. Streaming option with TD upside. The low volume caps his PPR floor.",
+    "badgersFit": "Delp is a TD-dependent streaming TE. 10 TDs on 55 catches is elite efficiency but the volume (21-34 catches) gives him a terrible PPR floor. At pick 3.73 he's worth a dart in TE-premium leagues. In standard he's a streamer when the matchup is right. The TD upside is real but don't rely on him weekly.",
+    "verdict": "Red-zone TE with TD upside. Low PPR floor, high TD ceiling."
+  },
+  "kacmarek": {
+    "shortReport": "Ohio State TE — 12-98-1TD in 2025. Ohio→OSU transfer. Blocking TE only. No fantasy value.",
+    "strengths": ["Blocking TE — will stick on an NFL roster for his blocking"],
+    "weaknesses": ["12-98-1 — no receiving production", "Blocking TE only — not a fantasy asset"],
+    "nflFit": "Blocking TE. Best as a TE3 on an NFL roster.",
+    "comp": "C.J. Fiedorowicz — blocking TE",
+    "dynastyOutlook": "Not rosterable.",
+    "badgersFit": "Kacmarek is undraftable for fantasy. 12-98-1 at OSU is replacement-level. At pick 4.87 he's a hard pass.",
+    "verdict": "Blocking TE. No fantasy value."
+  },
+  "raridon": {
+    "shortReport": "Notre Dame TE — 21-244-3TD (2024), 36-412-4TD (2025). Steady producer with knee injury history. ND inline TE with reliable hands.",
+    "strengths": ["Steady producer — 21→36 catches, 3→4 TDs, ascending", "Reliable hands — catches everything in his frame", "ND pedigree — well-coached, NFL-ready"],
+    "weaknesses": ["Knee injury history — durability concern", "Modest YPR — 11.6-11.4, no seam-stretching ability", "Not a dynamic athlete — reliable but not explosive"],
+    "nflFit": "Inline TE in a pro-style offense. Best as a TE2 who moves the chains.",
+    "comp": "Austin Hooper — reliable possession TE",
+    "dynastyOutlook": "TE3. Streaming option in deep leagues.",
+    "badgersFit": "Raridon is a streaming TE with a safe floor. 36-412-4 at ND is solid but the knee history is a concern. At pick 4.95 he's worth a look in deep TE-premium leagues. In standard he's a streamer. The ascending production (21→36 catches) is encouraging.",
+    "verdict": "Steady possession TE. Streamer with safe floor."
+  },
+  "hibner": {
+    "shortReport": "SMU TE — 18-192-2TD in 2025. Michigan→SMU transfer. Athletic but unproven.",
+    "strengths": ["Athletic — Michigan pedigree suggests upside"],
+    "weaknesses": ["18-192-2 — minimal production", "Unproven — couldn't produce at Michigan"],
+    "nflFit": "Developmental TE. Practice squad candidate.",
+    "comp": "Practice squad TE",
+    "dynastyOutlook": "Not rosterable.",
+    "badgersFit": "Hibner is off the dynasty radar. 18-192-2 at SMU is replacement-level. At pick 5.133 he's a hard pass.",
+    "verdict": "Unproven athletic TE. Not fantasy-relevant."
+  },
+  "joly": {
+    "shortReport": "NC State TE — 40-482-5TD (2024), 55-656-6TD (2025). UConn→NC State transfer. Productive move TE with ascending volume. The best TE3 option in this class.",
+    "strengths": ["Ascending production — 40→55 catches, 5→6 TDs", "Productive at two programs — UConn→NC State translation worked", "Move TE — creates mismatches in the slot", "55 catches in 2025 — real volume for a TE"],
+    "weaknesses": ["Not a dynamic athlete — productive but not explosive", "12.1-11.9 YPR — limited seam-stretching", "TD rate modest — 5-6 TDs on 40-55 catches"],
+    "nflFit": "Move TE in a spread offense. Best as a TE2 who creates mismatches.",
+    "comp": "Dalton Schultz — productive move TE without elite athleticism",
+    "dynastyOutlook": "TE3. Streaming option with TE2 upside in the right offense.",
+    "badgersFit": "Joly is the best TE3 option in this class. 55-656-6 at NC State is solid production with an ascending trend. At pick 5.152 he's a steal if you need TE depth. In TE-premium leagues he's a viable TE2. In standard he's a streamer with upside. The 55 catches give him a PPR floor most TEs in this class can't match.",
+    "verdict": "Productive move TE. Best TE3 in this class with TE2 upside."
+  },
+  "koziol": {
+    "shortReport": "Houston TE — 14-112-1TD in 2025. Ball State→Houston transfer. Blocking TE only.",
+    "verdict": "Blocking TE. No fantasy value."
+  },
+  "nowakowski": {
+    "shortReport": "Indiana TE — 11-89-0TD in 2025. Wisconsin→IU transfer. Fullback/H-back hybrid. No fantasy value.",
+    "verdict": "FB/TE hybrid. No fantasy value."
+  },
+  "royer": {
+    "shortReport": "Cincinnati TE — 22-248-2TD (11.3 YPR) in 2025. Ohio State→Cincy transfer. Receiving TE only with modest production.",
+    "verdict": "Receiving-only TE. Deep-league streamer at best."
+  },
+  "cuevas": {
+    "shortReport": "Alabama TE — 8-64-0TD in 2025. Cal Poly→Bama transfer. Blocking specialist. No fantasy value.",
+    "verdict": "Blocking TE. No fantasy value."
+  },
+  "traore": {
+    "shortReport": "Mississippi State TE — 10-88-1TD in 2025. International prospect. Raw athlete with developmental upside.",
+    "verdict": "Raw international TE. Taxi squad stash only."
+  },
+  "sharp": {
+    "shortReport": "LSU TE — 15-134-1TD in 2025. Oklahoma→LSU transfer. Blocking/inline TE. No fantasy value.",
+    "verdict": "Blocking TE. No fantasy value."
+  },
+  "endries": {
+    "shortReport": "Texas TE — 20-198-2TD in 2025. Cal→Texas transfer. Possession TE with modest production.",
+    "verdict": "Possession TE. Deep-league streamer at best."
+  },
+  "kanak": {
+    "shortReport": "Oklahoma TE — 6-48-0TD in 2025. Former LB convert. Special-teams only. No fantasy value.",
+    "verdict": "ST-only TE. No fantasy value."
+  },
+  "ryan": {
+    "shortReport": "BYU TE — 9-72-1TD in 2025. UCLA→BYU transfer. Blocking TE. No fantasy value.",
+    "verdict": "Blocking TE. No fantasy value."
+  },
+  "bentley": {
+    "shortReport": "Utah TE — 4-28-0TD in 2025. Snow College→Utah. Developmental. No fantasy value.",
+    "verdict": "Developmental TE. No fantasy value."
+  },
+  "bredeson": {
+    "shortReport": "Michigan FB — 18-62-2TD rushing, 8-52-1TD receiving in 2025. Traditional fullback, lead blocker, special teams. No fantasy value in standard leagues. Viable in leagues that count blocking or fullback-specific stats.",
+    "badgersFit": "Bredeson is a real football player but not a fantasy asset. Fullbacks don't produce in standard formats. At pick 7.159 he's undraftable for fantasy purposes. Only relevant in leagues with specific FB scoring.",
+    "verdict": "Traditional FB. No standard fantasy value."
+  },
+  "smack": {
+    "shortReport": "Florida K — 22-27 FG (81.5%), long 56, 48-48 XP, 82.4% touchbacks in 2025. Lou Groza finalist. Reliable leg with NFL-caliber range.",
+    "strengths": ["81.5% FG accuracy — reliable", "56-yard long — NFL range", "48-48 XP — perfect on extra points", "82.4% touchbacks — strong leg on kickoffs"],
+    "weaknesses": ["Kickers are kicker-dependent — production tied to NFL offense quality", "5 missed FGs — not perfect", "Kicker value is almost entirely landing-spot dependent"],
+    "nflFit": "NFL kicker. Will get drafted based on leg strength and accuracy.",
+    "comp": "Jake Moody — reliable college kicker with NFL range",
+    "dynastyOutlook": "K2. Draft him if your league starts a K and you want a rookie. Landing spot determines his value entirely.",
+    "badgersFit": "Smack is the only K worth drafting in this class. 81.5% with a 56-yard long is NFL-caliber. At pick 7.216 he's worth a last-round pick if your league starts a K. His value is 100% landing-spot dependent — a good offense makes him a K1, a bad offense makes him unrosterable.",
+    "verdict": "Reliable rookie K. Landing-spot dependent value."
   }
 }
