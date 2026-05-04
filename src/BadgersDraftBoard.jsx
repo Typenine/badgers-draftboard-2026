@@ -125,7 +125,7 @@ const TIER_INFO = {
   4: { label: 'Tier 4 — Late 2nd / Early 3rd', color: '#6e5d2e' },
   5: { label: 'Tier 5 — Late 3rd / 4th Fliers', color: '#5a4d28' },
   6: { label: 'Tier 6 — Deep Stash', color: '#4a3f23' },
-  7: { label: 'Tier 7 — TE / QB / Roster Bloat', color: '#3a3220' },
+  7: { label: 'Tier 7 — Late Round Depth', color: '#3a3220' },
 };
 
 const BadgersLogo = ({ size = 38, secondary = false }) => (
@@ -849,8 +849,8 @@ export default function BadgersDraftBoard() {
               </div>
 
               {tp.map(p => {
-                if (!p.noFit && p.tier !== 7) runningRank += 1;
-                const rank = (p.noFit || p.tier === 7) ? null : runningRank;
+                runningRank += 1;
+                const rank = runningRank;
                 const isExpanded = expandedId === p.id;
                 const isDragging = draggedId === p.id;
                 const isDragOver = dragOverId === p.id;
