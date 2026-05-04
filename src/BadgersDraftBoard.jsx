@@ -181,7 +181,7 @@ function buildBoardData(players, scoutingUrl) {
     noFit,
     target,
     notes,
-    scoutingUrl: scoutingUrl || '',
+    scoutingUrl: scoutingUrl || '/scouting-reports.json',
   };
 }
 
@@ -209,7 +209,7 @@ function applySavedBoardData(saved) {
 
   return {
     players: next,
-    scoutingUrl: data.scoutingUrl || '',
+    scoutingUrl: data.scoutingUrl !== undefined ? data.scoutingUrl : '/scouting-reports.json',
   };
 }
 
@@ -469,7 +469,7 @@ export default function BadgersDraftBoard() {
   const [saveStatus, setSaveStatus] = useState('');
   const [saveError, setSaveError] = useState('');
   const [settingsOpen, setSettingsOpen] = useState(false);
-  const [scoutingUrl, setScoutingUrl] = useState('');
+  const [scoutingUrl, setScoutingUrl] = useState('/scouting-reports.json');
   const [scoutingCache, setScoutingCache] = useState(null);
   const [scoutingStatus, setScoutingStatus] = useState('no-url');
   const [scoutingError, setScoutingError] = useState('');
@@ -648,11 +648,11 @@ export default function BadgersDraftBoard() {
   const onDragEnd = () => { setDraggedId(null); setDragOverId(null); };
 
   const reset = async () => {
-    if (!confirm('Reset all rankings, tiers, notes, flags, and scouting URL to default? Cannot be undone.')) return;
+    if (!confirm('Reset all rankings, tiers, notes, and flags to default? Cannot be undone.')) return;
     setPlayers(INITIAL.map(p => ({ ...p })));
-    setScoutingUrl('');
+    setScoutingUrl('/scouting-reports.json');
     setScoutingCache(null);
-    setScoutingStatus('no-url');
+    setScoutingStatus('loading');
     setScoutingError('');
   };
 
@@ -773,7 +773,7 @@ export default function BadgersDraftBoard() {
       </div>
 
       <div style={{ maxWidth: '900px', margin: '0 auto', padding: '14px' }}>
-        {!scoutingUrl && (
+        {scoutingStatus === 'error' && (
           <div style={{
             padding: '10px 12px', marginBottom: '14px',
             background: `${C.warning}1a`, border: `1px solid ${C.warning}55`,
@@ -783,7 +783,7 @@ export default function BadgersDraftBoard() {
           }}>
             <AlertCircle size={16} style={{ flexShrink: 0, marginTop: '1px' }} />
             <div>
-              <strong>Scouting reports not loaded.</strong> Tap ⚙ to set the Gist URL.
+              <strong>Scouting reports failed to load.</strong> {scoutingError}. Tap ⚙ to change the URL.
             </div>
           </div>
         )}
