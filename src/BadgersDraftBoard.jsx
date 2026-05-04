@@ -849,8 +849,8 @@ export default function BadgersDraftBoard() {
               </div>
 
               {tp.map(p => {
-                if (!p.noFit) runningRank += 1;
-                const rank = p.noFit ? null : runningRank;
+                if (!p.noFit && p.tier !== 7) runningRank += 1;
+                const rank = (p.noFit || p.tier === 7) ? null : runningRank;
                 const isExpanded = expandedId === p.id;
                 const isDragging = draggedId === p.id;
                 const isDragOver = dragOverId === p.id;
