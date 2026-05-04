@@ -13,10 +13,10 @@ const C = {
   text: '#F2F7F9',         // brand off-white
   textMuted: '#a8b8c4',    // navy-tinted muted
   textDim: '#6a7d8e',      // navy-tinted dim
-  unlikely: '#e89a98',     // pale red — won't reach me
-  unlikelyBg: 'rgba(232, 154, 152, 0.10)',
-  noFit: '#c5acd6',        // pale purple — doesn't fit
-  noFitBg: 'rgba(197, 172, 214, 0.10)',
+  unlikely: '#c5acd6',     // pale purple — won't reach me
+  unlikelyBg: 'rgba(197, 172, 214, 0.10)',
+  noFit: '#e89a98',        // pale red — doesn't fit
+  noFitBg: 'rgba(232, 154, 152, 0.10)',
   target: '#7dd4a8',       // pale green — target (slightly more saturated to read on navy)
   targetBg: 'rgba(125, 212, 168, 0.13)',
   warning: '#e8b87a',
@@ -99,7 +99,7 @@ const INITIAL = [
   { id: 'klein', tier: 7, name: 'Marlin Klein', pos: 'TE', team: 'HOU', college: 'Michigan', pick: 59, s: ['REC  — 2025: 32-428-3TD (13.4)', 'MISC — German import, basketball background, raw but athletic'] },
   { id: 'klare', tier: 7, name: 'Max Klare', pos: 'TE', team: 'LAR', college: 'Ohio State', pick: 61, s: ['REC  — 2024 (PUR): 51-685-4TD (13.4) | 2025 (OSU): 43-448-2TD (10.4)', 'MISC — Purdue → OSU, 1st-team All-Big Ten (2025), crowded OSU target share'] },
   { id: 'roush', tier: 7, name: 'Sam Roush', pos: 'TE', team: 'CHI', college: 'Stanford', pick: 69, s: ['REC  — 2025: 38-423-3TD (11.1)', 'MISC — Stanford legacy, possession TE profile'] },
-  { id: 'delp', tier: 7, name: 'Oscar Delp', pos: 'TE', team: 'NO', college: 'Georgia', pick: 73, s: ['REC  — 2023: 24-284-?TD | 2024: 21-?-4TD | 2025: 20-261-1TD', 'MISC — UGA TE, 70-854-8TD career, red-zone upside in run-heavy O'] },
+  { id: 'delp', tier: 7, name: 'Oscar Delp', pos: 'TE', team: 'NO', college: 'Georgia', pick: 73, s: ['REC  — 2023: 24-284-2TD | 2024: 21-248-4TD | 2025: 20-261-1TD', 'MISC — UGA TE, 70-854-8TD career, red-zone upside in run-heavy O'] },
   { id: 'kacmarek', tier: 7, name: 'Will Kacmarek', pos: 'TE', team: 'MIA', college: 'Ohio State', pick: 87, s: ['REC  — 2025: 12-98-1TD', 'MISC — Ohio → OSU transfer, blocking TE only'] },
   { id: 'raridon', tier: 7, name: 'Eli Raridon', pos: 'TE', team: 'NE', college: 'Notre Dame', pick: 95, s: ['REC  — 2022-24 (career): 16-141-3TD | 2025: 32-482-0TD (15.1)', 'MISC — ND inline TE, breakout 2025, only 16 career catches before senior year'] },
   { id: 'hibner', tier: 7, name: 'Matthew Hibner', pos: 'TE', team: 'BAL', college: 'SMU', pick: 133, s: ['REC  — 2025: 18-192-2TD', 'MISC — Michigan → SMU, athletic but unproven'] },
@@ -821,8 +821,8 @@ export default function BadgersDraftBoard() {
         }}>
           <strong style={{ color: C.accent }}>Flags (toggle independently):</strong><br/>
           <span style={{ color: C.target }}>✓ pale green</span> = target ·{' '}
-          <span style={{ color: C.unlikely }}>👁 pale red</span> = won't reach me ·{' '}
-          <span style={{ color: C.noFit }}>✕ pale purple</span> = doesn't fit
+          <span style={{ color: C.unlikely }}>👁 pale purple</span> = won't reach me ·{' '}
+          <span style={{ color: C.noFit }}>✕ pale red</span> = doesn't fit
           <br/>
           <span style={{ color: C.textDim, fontSize: '11px' }}>Use ↑↓ to reorder (crosses tiers automatically). Tap a name to expand for tier-jump buttons + scouting + notes.</span>
         </div>
@@ -849,8 +849,8 @@ export default function BadgersDraftBoard() {
               </div>
 
               {tp.map(p => {
-                runningRank += 1;
-                const rank = runningRank;
+                if (!p.noFit) runningRank += 1;
+                const rank = p.noFit ? null : runningRank;
                 const isExpanded = expandedId === p.id;
                 const isDragging = draggedId === p.id;
                 const isDragOver = dragOverId === p.id;
